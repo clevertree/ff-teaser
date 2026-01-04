@@ -1,6 +1,6 @@
 # AI Prompts: 06_verse_3
 
-**Style Guide:** Cinematic, dark sci-fi, psychedelic space, H.R. Giger meets H.G. Wells, grainy 70s film stock aesthetic, high detail, 8k.
+**Style Guide:** Cinematic, dark sci-fi, realistic epic sci-fi, H.R. Giger meets H.G. Wells, grainy 70s film stock aesthetic, high detail, 8k.
 
 ## Hero Image 1: Future War & Pillar of Fire
 **Prompt:** A dark, smog-filled future battlefield. A tremendous, blinding pillar of fire reaches from the ground to the black sky. Tripods move in the distance.

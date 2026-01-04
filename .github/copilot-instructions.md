@@ -11,7 +11,7 @@ This project is an animated teaser for "Stars Die" by Porcupine Tree, serving as
 ## Animation Guidelines
 - Most shots should be approximately one line of lyrics in length.
 - The Nixon interlude starts at "Because of what you have done..." (original lines 26-29 are cut).
-- Focus on atmospheric, psychedelic, and space-themed imagery consistent with the song's mood.
+- Focus on atmospheric, realistic, and space-themed imagery consistent with the song's mood.
 
 ## Tooling
 - Use `stable-ts` for precise lyric-to-audio alignment.

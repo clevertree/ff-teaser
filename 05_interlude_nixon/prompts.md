@@ -1,6 +1,6 @@
 # AI Prompts: 05_interlude_nixon
 
-**Style Guide:** Cinematic, dark sci-fi, psychedelic space, H.R. Giger meets H.G. Wells, grainy 70s film stock aesthetic, high detail, 8k.
+**Style Guide:** Cinematic, dark sci-fi, realistic epic sci-fi, H.R. Giger meets H.G. Wells, grainy 70s film stock aesthetic, high detail, 8k.
 
 ## Hero Image 1: Smog Sky
 **Prompt:** A shot from Earth looking up at a sky filled with plasma and fire, which is being rapidly covered by a heavy, dark, suffocating smog. The light is being choked out.

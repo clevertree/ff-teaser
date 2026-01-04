@@ -1,6 +1,6 @@
 # AI Prompts: 00_intro
 
-**Style Guide:** Cinematic, dark sci-fi, psychedelic space, H.R. Giger meets H.G. Wells, grainy 70s film stock aesthetic, high detail, 8k, anamorphic lens flare.
+**Style Guide:** Cinematic, dark sci-fi, realistic epic sci-fi, H.R. Giger meets H.G. Wells, grainy 70s film stock aesthetic, high detail, 8k, anamorphic lens flare.
 
 ## Hero Image 1: The Moon
 **Prompt:** A large, detailed moon hanging in a dark, star-filled night sky. The surface is cratered and ancient. Cinematic lighting, 70s sci-fi film aesthetic.

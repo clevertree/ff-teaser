@@ -1,4 +1,4 @@
-# Stars Die - Animated Teaser Plan
+![img.png](img.png)![img_1.png](img_1.png)# Stars Die - Animated Teaser Plan
 
 This project is an animated teaser for the song **Stars Die** by Porcupine Tree, serving as a conceptual teaser for an unstarted game project titled **Forgotten Future**. The teaser is organized into sections, with each section having its own folder for media and concept art.
 
