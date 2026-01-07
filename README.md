@@ -1,6 +1,17 @@
 ![img.png](img.png)![img_1.png](img_1.png)# Stars Die - Animated Teaser Plan
 
-This project is an animated teaser for the song **Stars Die** by Porcupine Tree, serving as a conceptual teaser for an unstarted game project titled **Forgotten Future**. The teaser is organized into sections, with each section having its own folder for media and concept art.
+This project is an animated teaser for the song **Stars Die** by Porcupine Tree, serving as a conceptual teaser for the **Forgotten Future** narrative.
+
+## Story Context
+
+**Forgotten Future** is an AI-driven science fiction novel set in a post-apocalyptic Earth, ~15 years after the "Cataclysm"—the shattering of the Moon and the arrival of colossal mechanical entities. The narrative follows **Lem**, a humanoid Vessel (synthetic being) who discovers his true nature as the world collapses around him.
+
+The teaser's imagery and tone directly parallel the events depicted in the story:
+- **The Moon's destruction** (opening verses) mirrors the Lunar Capacitor discharge
+- **The Tripods' arrival** (verse 1) depicts the First Wave of mechanical entities
+- **Humanity's helplessness** (verses 2-3) reflects the Cataclysm and its aftermath
+
+**Narrative Status:** Manuscript composition is underway. See [ff-story/chapters/INDEX.md](../ff-story/chapters/INDEX.md) for progress (6 chapters complete: "Awakening").
 
 ## Song Structure & Refined Timings
 
