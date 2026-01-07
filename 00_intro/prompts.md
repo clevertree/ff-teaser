@@ -29,3 +29,21 @@ The end of this world will come.
 ```
 Briefly displayed behind/outside the quote is a case file with the words
 SUBJECT: INTERCEPTION AND SUPPRESSION OF QUATRAIN X-72 (NON-CANONICAL) CLEARANCE: TOP SECRET // EYES ONLY DATE: [REDACTED]
+
+
+## Additional/Alternate Shots (Story Accurate)
+
+### Shot: The Decade of Revelation
+**Prompt:** A collage of flickering TV screens, news clippings, and digital feeds. Headlines about alien leaks, prophecies, and government conspiracies overlap and blur together. The public is distracted, faces illuminated by screens, oblivious to the real threat. (Reflects the media flood and public ignorance from ff-story.)
+
+### Shot: Hidden Cult Ritual
+**Prompt:** A shadowy, candle-lit gathering of elite figures in a modern boardroom, performing a ritual with a Vessel (humanoid, ambiguous gender, not fully human). The Vessel recites the "Prophecy of the King of Terror" as the group watches in awe and fear. (Directly references the Vessel Deception and secret religion.)
+
+### Shot: The Arrival Overlooked
+**Prompt:** A busy city street in daylight. In the background, a Tripod silhouette is visible, but the crowd is distracted by their phones and screens, ignoring the looming threat. (Visual metaphor for the public missing the signs until too late.)
+
+### Shot: Selenite Memory
+**Prompt:** A fleeting, dreamlike image of the indigenous Selenites—gentle, bioluminescent lunar beings—retreating into shadowy lunar caves as the first Synodic machines begin to grow on the Moon's surface. (References the original lunar inhabitants from ff-story.)
+
+### Copilot Note
+> Repeat this process over time: Whenever the story in ff-story is updated, review and update the prompts in ff-teaser to ensure visual and conceptual alignment. Add new alternate/extra shots as the narrative evolves.

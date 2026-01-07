@@ -19,3 +19,14 @@ The metal is glowing and warping, sagging into fluid, molten shapes. Intense hea
 ## Hero Image 5: Moon Detail Variation
 **Reference:** 00_intro/01_the_moon/hero_1_the_moon.jpg
 **Prompt:** A high-detail variation of the moon from the intro, showing more craters and surface texture.
+
+## Additional/Alternate Shots (Story Context: Lem's Uncontrollable Nature)
+
+### Shot: Wood Element Eruption
+**Prompt:** Green, organic-looking Aether energy swirling around the moon's eruption—a burst of biomimetic growth escaping the lunar surface. Vines of luminous technology reaching into space. (Reflects Lem's uncontrolled Wood element nature and the mechanical infection spreading.)
+
+### Shot: The Selenites' Last Refuge
+**Prompt:** Indigenous Selenites, bioluminescent and peaceful, desperately retreating into deep lunar caverns as the first Synodic shards spread across the surface. Their ancient underground cities glow with soft light, contrasting the mechanical rot above. (References the displacement of the indigenous lunar species.)
+
+### Copilot Note
+> Repeat this process over time: Whenever ff-story is updated, review and update ff-teaser prompts to ensure visual and conceptual alignment. Add new alternate shots as the narrative evolves.
