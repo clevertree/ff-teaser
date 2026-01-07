@@ -14,3 +14,19 @@
     - Framed by the silhouettes of a sleeping city, where the vague silhouettes of **Tripod Walkers** can be seen standing motionless in the distance.
 - **Closing Shot:** A serene view of the moon visible during the daytime, transitioning into the first verse.
 - Atmospheric buildup matching the instrumental.
+
+## Quote
+Within the first 30 seconds of the opening shot, the quote is displayed:
+
+```
+In the year 202X from heaven will come a Great King of Terror.
+The dead will rise from their graves. Beasts shall wear the masks of humanity.
+After wars are fought and the sea's blessings vanish, those who lead the armies of men will disappear.
+Nobles will seek sacrifices for their strange works.
+Mankind will be filled with mistrust, and pestilence shall reign.
+The end of this world will come.
+-- Nostradamus (Source [REDACTED RE:EXEC-99-B])
+```
+
+Briefly displayed behind/outside the quote is a case file with the words
+SUBJECT: INTERCEPTION AND SUPPRESSION OF QUATRAIN X-72 (NON-CANONICAL) CLEARANCE: TOP SECRET // EYES ONLY DATE: [REDACTED]

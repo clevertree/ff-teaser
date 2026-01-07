@@ -84,7 +84,22 @@ def assemble_video():
     
     for section in sections:
         section_dir = base_dir / section["path"]
-        images = sorted([img for img in section_dir.glob("hero_*.png")])
+        
+        # Look for images in [section]/[nn]_[description] folders
+        # Prioritize images in the 'derive' subfolder if they exist
+        hero_folders = sorted([d for d in section_dir.iterdir() if d.is_dir() and re.match(r"\d{2}_", d.name)])
+        section_images = []
+        
+        for hf in hero_folders:
+            derive_imgs = sorted(list(hf.glob("derive/hero_*_*.webp")))
+            if derive_imgs:
+                section_images.append(derive_imgs[0]) # Use the first derived variation
+            else:
+                base_imgs = sorted(list(hf.glob("hero_*_*.webp")))
+                if base_imgs:
+                    section_images.append(base_imgs[0])
+        
+        images = section_images
         
         if not images:
             last_end = section["end"]
@@ -125,10 +140,9 @@ def assemble_video():
         "ffmpeg", "-y",
         *inputs,
         "-i", str(audio_file),
-        "-filter_complex", filter_complex,
+        "-filter_complex", filter_complex + f",subtitles={srt_file.name}:force_style='FontSize=24,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BorderStyle=3,Outline=1,Shadow=0,Alignment=2,MarginV=30'",
         "-map", "[outv]",
         "-map", f"{len(clips)}:a",
-        "-vf", f"subtitles={srt_file.name}:force_style='FontSize=24,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BorderStyle=3,Outline=1,Shadow=0,Alignment=2,MarginV=30'",
         "-c:v", "libx264",
         "-pix_fmt", "yuv420p",
         "-shortest",
@@ -136,8 +150,6 @@ def assemble_video():
     ]
 
     print("Assembling video with FFmpeg (this may take a few minutes)...")
-    subprocess.run(cmd)
-    print(f"Done! Video saved to {output_file}")
     subprocess.run(cmd)
     print(f"Done! Video saved to {output_file}")
 

@@ -1,0 +1,614 @@
+<?xml version="1.0" ?>
+<mlt LC_NUMERIC="C" version="7.22.0" root="/home/ari/dev/ff-teaser">
+  <profile description="HD 1080p 25fps" frame_rate_num="25" frame_rate_den="1" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" colorspace="709"/>
+  <producer id="audio_song">
+    <property name="resource">song.mp3</property>
+  </producer>
+  <producer id="producer_0" in="0" out="167">
+    <property name="resource">00_intro/01_the_moon/hero_1_the_moon.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_0">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 167=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_0">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_0">
+      <property name="mlt_service">brightness</property>
+      <property name="level">155=1.0; 167=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_1" in="0" out="167">
+    <property name="resource">00_intro/02_moon_over_water/hero_2_moon_over_water.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_1">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 167=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_1">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_1">
+      <property name="mlt_service">brightness</property>
+      <property name="level">155=1.0; 167=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_2" in="0" out="167">
+    <property name="resource">00_intro/03_moon_over_desert/derive/hero_3_moon_over_desert.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_2">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 167=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_2">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_2">
+      <property name="mlt_service">brightness</property>
+      <property name="level">155=1.0; 167=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_3" in="0" out="167">
+    <property name="resource">00_intro/04_city_with_tripods/derive/hero_4_city_with_tripods.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_3">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 167=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_3">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_3">
+      <property name="mlt_service">brightness</property>
+      <property name="level">155=1.0; 167=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_4" in="0" out="167">
+    <property name="resource">00_intro/05_redacted_quote/derive/hero_5_redacted_quote.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_4">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 167=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_4">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_4">
+      <property name="mlt_service">brightness</property>
+      <property name="level">155=1.0; 167=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_5" in="0" out="160">
+    <property name="resource">01_verse_1/01_moon_eruption/derive/hero_1_moon_eruption.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_5">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 160=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_5">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_5">
+      <property name="mlt_service">brightness</property>
+      <property name="level">148=1.0; 160=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_6" in="0" out="160">
+    <property name="resource">01_verse_1/02_glazing_ocean/derive/hero_2_glazing_ocean.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_6">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 160=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_6">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_6">
+      <property name="mlt_service">brightness</property>
+      <property name="level">148=1.0; 160=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_7" in="0" out="160">
+    <property name="resource">01_verse_1/03_melting_power_lines/derive/hero_3_melting_power_lines.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_7">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 160=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_7">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_7">
+      <property name="mlt_service">brightness</property>
+      <property name="level">148=1.0; 160=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_8" in="0" out="160">
+    <property name="resource">01_verse_1/04_blinding_heat_blast/derive/hero_4_blinding_heat_blast.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_8">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 160=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_8">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_8">
+      <property name="mlt_service">brightness</property>
+      <property name="level">148=1.0; 160=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_9" in="0" out="160">
+    <property name="resource">01_verse_1/05_moon_detail_variation/derive/hero_5_moon_detail_variation.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_9">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 160=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_9">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_9">
+      <property name="mlt_service">brightness</property>
+      <property name="level">148=1.0; 160=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_10" in="0" out="427">
+    <property name="resource">02_chorus_1/01_disintegrating_moon/derive/hero_1_disintegrating_moon.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_10">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 427=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_10">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_10">
+      <property name="mlt_service">brightness</property>
+      <property name="level">415=1.0; 427=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_11" in="0" out="427">
+    <property name="resource">02_chorus_1/02_tripods_in_the_city/derive/hero_2_tripods_in_the_city.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_11">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 427=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_11">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_11">
+      <property name="mlt_service">brightness</property>
+      <property name="level">415=1.0; 427=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_12" in="0" out="198">
+    <property name="resource">03_verse_2/01_burning_forest/derive/hero_1_burning_forest.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_12">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 198=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_12">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_12">
+      <property name="mlt_service">brightness</property>
+      <property name="level">186=1.0; 198=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_13" in="0" out="198">
+    <property name="resource">03_verse_2/02_electric_mountains/derive/hero_2_electric_mountains.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_13">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 198=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_13">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_13">
+      <property name="mlt_service">brightness</property>
+      <property name="level">186=1.0; 198=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_14" in="0" out="198">
+    <property name="resource">03_verse_2/03_melting_building/derive/hero_3_melting_building.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_14">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 198=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_14">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_14">
+      <property name="mlt_service">brightness</property>
+      <property name="level">186=1.0; 198=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_15" in="0" out="198">
+    <property name="resource">03_verse_2/04_mechanical_cells/derive/hero_4_mechanical_cells.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_15">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 198=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_15">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_15">
+      <property name="mlt_service">brightness</property>
+      <property name="level">186=1.0; 198=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_16" in="0" out="231">
+    <property name="resource">04_chorus_2/01_shattered_moon_in_space/derive/hero_1_shattered_moon_in_space.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_16">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 231=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_16">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_16">
+      <property name="mlt_service">brightness</property>
+      <property name="level">219=1.0; 231=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_17" in="0" out="231">
+    <property name="resource">04_chorus_2/02_blasted_desert/derive/hero_2_blasted_desert.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_17">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 231=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_17">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_17">
+      <property name="mlt_service">brightness</property>
+      <property name="level">219=1.0; 231=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_18" in="0" out="231">
+    <property name="resource">04_chorus_2/02_falling_moon_chunks/hero_2_falling_moon_chunks.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_18">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 231=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_18">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_18">
+      <property name="mlt_service">brightness</property>
+      <property name="level">219=1.0; 231=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_19" in="0" out="539">
+    <property name="resource">05_interlude_nixon/01_smog_sky/derive/hero_1_smog_sky.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_19">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 539=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_19">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_19">
+      <property name="mlt_service">brightness</property>
+      <property name="level">527=1.0; 539=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_20" in="0" out="539">
+    <property name="resource">05_interlude_nixon/02_dying_tv_screen_close_up/derive/hero_2_dying_tv_screen_close_up.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_20">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 539=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_20">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_20">
+      <property name="mlt_service">brightness</property>
+      <property name="level">527=1.0; 539=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_21" in="0" out="195">
+    <property name="resource">06_verse_3/01_future_war_&amp;_pillar_of_fire/derive/hero_1_future_war_&amp;_pillar_of_fire.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_21">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 195=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_21">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_21">
+      <property name="mlt_service">brightness</property>
+      <property name="level">183=1.0; 195=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_22" in="0" out="195">
+    <property name="resource">06_verse_3/02_mechanical_white_forest/derive/hero_2_mechanical_white_forest.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_22">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 195=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_22">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_22">
+      <property name="mlt_service">brightness</property>
+      <property name="level">183=1.0; 195=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_23" in="0" out="195">
+    <property name="resource">06_verse_3/03_desert_base/derive/hero_3_desert_base.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_23">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 195=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_23">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_23">
+      <property name="mlt_service">brightness</property>
+      <property name="level">183=1.0; 195=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_24" in="0" out="195">
+    <property name="resource">06_verse_3/04_person_on_moon_fragment/derive/hero_4_person_on_moon_fragment.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_24">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 195=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_24">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_24">
+      <property name="mlt_service">brightness</property>
+      <property name="level">183=1.0; 195=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_25" in="0" out="195">
+    <property name="resource">06_verse_3/05_space_ship_launch/derive/hero_5_space_ship_launch.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_25">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 195=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_25">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_25">
+      <property name="mlt_service">brightness</property>
+      <property name="level">183=1.0; 195=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_26" in="0" out="195">
+    <property name="resource">06_verse_3/06_incubating_cube/derive/hero_6_incubating_cube.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_26">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 195=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_26">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_26">
+      <property name="mlt_service">brightness</property>
+      <property name="level">183=1.0; 195=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_27" in="0" out="381">
+    <property name="resource">07_chorus_3/01_extinguishing_stars/derive/hero_1_extinguishing_stars.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_27">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 381=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_27">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_27">
+      <property name="mlt_service">brightness</property>
+      <property name="level">369=1.0; 381=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_28" in="0" out="381">
+    <property name="resource">07_chorus_3/02_lightning_storm/derive/hero_2_lightning_storm.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_28">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 381=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_28">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_28">
+      <property name="mlt_service">brightness</property>
+      <property name="level">369=1.0; 381=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_29" in="0" out="124">
+    <property name="resource">08_outro/01_the_great_beast/derive/hero_1_the_great_beast.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_29">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 124=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_29">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_29">
+      <property name="mlt_service">brightness</property>
+      <property name="level">112=1.0; 124=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_30" in="0" out="124">
+    <property name="resource">08_outro/02_witch_humanoids/hero_2_witch_humanoids.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_30">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 124=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_30">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_30">
+      <property name="mlt_service">brightness</property>
+      <property name="level">112=1.0; 124=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_31" in="0" out="124">
+    <property name="resource">08_outro/03_electromagnetic_vortex/derive/hero_3_electromagnetic_vortex.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_31">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 124=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_31">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_31">
+      <property name="mlt_service">brightness</property>
+      <property name="level">112=1.0; 124=0</property>
+    </filter>
+  </producer>
+  <producer id="producer_32" in="0" out="124">
+    <property name="resource">08_outro/04_final_serene_sky/derive/hero_4_final_serene_sky.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <filter id="filter_affine_32">
+      <property name="mlt_service">affine</property>
+      <property name="rect">0=0 0 1920 1080 100; 124=-96 -54 2112 1188 100</property>
+    </filter>
+    <filter id="filter_in_32">
+      <property name="mlt_service">brightness</property>
+      <property name="level">0=0; 12=1.0</property>
+    </filter>
+    <filter id="filter_out_32">
+      <property name="mlt_service">brightness</property>
+      <property name="level">112=1.0; 124=0</property>
+    </filter>
+  </producer>
+  <playlist id="main_bin">
+    <entry producer="producer_0" in="0" out="167"/>
+    <entry producer="producer_1" in="0" out="167"/>
+    <entry producer="producer_2" in="0" out="167"/>
+    <entry producer="producer_3" in="0" out="167"/>
+    <entry producer="producer_4" in="0" out="167"/>
+    <entry producer="producer_5" in="0" out="160"/>
+    <entry producer="producer_6" in="0" out="160"/>
+    <entry producer="producer_7" in="0" out="160"/>
+    <entry producer="producer_8" in="0" out="160"/>
+    <entry producer="producer_9" in="0" out="160"/>
+    <entry producer="producer_10" in="0" out="427"/>
+    <entry producer="producer_11" in="0" out="427"/>
+    <entry producer="producer_12" in="0" out="198"/>
+    <entry producer="producer_13" in="0" out="198"/>
+    <entry producer="producer_14" in="0" out="198"/>
+    <entry producer="producer_15" in="0" out="198"/>
+    <entry producer="producer_16" in="0" out="231"/>
+    <entry producer="producer_17" in="0" out="231"/>
+    <entry producer="producer_18" in="0" out="231"/>
+    <entry producer="producer_19" in="0" out="539"/>
+    <entry producer="producer_20" in="0" out="539"/>
+    <entry producer="producer_21" in="0" out="195"/>
+    <entry producer="producer_22" in="0" out="195"/>
+    <entry producer="producer_23" in="0" out="195"/>
+    <entry producer="producer_24" in="0" out="195"/>
+    <entry producer="producer_25" in="0" out="195"/>
+    <entry producer="producer_26" in="0" out="195"/>
+    <entry producer="producer_27" in="0" out="381"/>
+    <entry producer="producer_28" in="0" out="381"/>
+    <entry producer="producer_29" in="0" out="124"/>
+    <entry producer="producer_30" in="0" out="124"/>
+    <entry producer="producer_31" in="0" out="124"/>
+    <entry producer="producer_32" in="0" out="124"/>
+  </playlist>
+  <tractor id="tractor0" in="0" out="7512">
+    <multitrack>
+      <track producer="main_bin"/>
+      <track producer="audio_song"/>
+    </multitrack>
+    <filter>
+      <property name="mlt_service">avfilter.subtitles</property>
+      <property name="av.filename">lyrics.srt</property>
+      <property name="av.force_style">FontSize=24,PrimaryColour=&amp;H00FFFFFF,OutlineColour=&amp;H00000000,BorderStyle=3,Outline=1,Shadow=0,Alignment=2,MarginV=30</property>
+    </filter>
+  </tractor>
+</mlt>
