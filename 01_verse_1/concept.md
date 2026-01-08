@@ -10,8 +10,8 @@
 - Stars dived in blinding skies
 
 ## Visual Ideas
-- **00:33 - The Moon Shook:** Starts with the serene daytime shot from the intro. Immediately, the camera shakes violently as the ground reverberates. The moon slowly becomes more luminous; plasma erupts from its poles and flows out into the sky like "gentle fire."
-- **00:42 - The Ocean Glazed:** Cut to a shot of the ocean (moon is implied to be above, out of frame). The water surface glazes over from intense heat, the effect spreading slowly across the surface toward the horizon.
-- **00:46 - Melted Wire:** Cut to a city setting. A tight closeup of a power line as it begins to sag and melt from the rapidly increasing atmospheric heat.
+- **00:33 - The Moon Shook:** Starts with the serene daytime shot from the intro. Immediately, the camera shakes violently as the ground reverberates. The **Lunar Capacitor** within the moon activates; the moon slowly becomes more luminous; plasma erupts from its poles and flows out into the sky like "gentle fire."
+- **00:42 - The Ocean Glazed:** Cut to a shot of the ocean. The **Lunar Capacitor's** high-energy discharge vitrifies the water surface, spreading a glass-like glaze toward the horizon.
+- **00:46 - Melted Wire:** Cut to a city setting. A tight closeup of a power line as it begins to sag and melt from the rapidly increasing atmospheric heat and electromagnetic surge.
 - **00:56 - Voices Buzzed:** Cut to a city street full of people. They haven't felt the heat yet, but they are looking up in terror at the moon erupting above the horizon.
-- **01:00 - Stars Dived:** The moon reaches a blinding white luminosity and blasts the Earth with a devastating heat beam, focused directly below its position. Space and moon debris fall from the sky, appearing as blinding flames ("stars diving").
+- **01:00 - Stars Dived:** The moon reaches a blinding white luminosity. The resulting **Great Fry** (EMP) causes orbiting debris and moon fragments to fall from the sky, appearing as blinding flames ("stars diving").

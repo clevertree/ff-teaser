@@ -4,14 +4,14 @@ This project is an animated teaser for the song **Stars Die** by Porcupine Tree,
 
 ## Story Context
 
-**Forgotten Future** is an AI-driven science fiction novel set in a post-apocalyptic Earth, ~15 years after the "Cataclysm"—the shattering of the Moon and the arrival of colossal mechanical entities. The narrative follows **Lem**, a humanoid Vessel (synthetic being) who discovers his true nature as the world collapses around him.
+**Forgotten Future** is an AI-driven science fiction novel set in a post-apocalyptic Earth, ~15 years after the "Cataclysm"—the shattering of the Moon and the arrival of colossal mechanical entities. The narrative follows **Lem**, a humanoid Wood Vessel who discovers his true nature and his unique capacity for **Sovereign Reincarnation** as the world collapses around him.
 
 The teaser's imagery and tone directly parallel the events depicted in the story:
-- **The Moon's destruction** (opening verses) mirrors the Lunar Capacitor discharge
-- **The Tripods' arrival** (verse 1) depicts the First Wave of mechanical entities
-- **Humanity's helplessness** (verses 2-3) reflects the Cataclysm and its aftermath
+- **The Moon's destruction** (opening verses) mirrors the Lunar Capacitor discharge and the resulting **Great Fry**.
+- **The Tripods' arrival** (verse 1) depicts the First Wave of mechanical entities.
+- **Humanity's helplessness** (verses 2-3) reflects the Cataclysm and its aftermath.
 
-**Narrative Status:** Manuscript composition is underway. See [ff-story/chapters/INDEX.md](../ff-story/chapters/INDEX.md) for progress (6 chapters complete: "Awakening").
+**Narrative Status:** Part 1 of the manuscript is complete. See [ff-story/chapters/INDEX.md](../ff-story/chapters/INDEX.md) for progress (15 chapters complete: "Awakening" to "The Path of Fragments").
 
 ## Song Structure & Refined Timings
 

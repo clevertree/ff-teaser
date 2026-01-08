@@ -17,7 +17,7 @@ They are indifferent to the exploding moon in the sky above. H.G. Wells inspired
 **Prompt:** Inside a cathedral or place of worship, a humanoid Vessel (ambiguous, not fully human) stands before a congregation, reciting the "Prophecy of the King of Terror." The congregation looks ecstatic and terrified. Outside, through stained glass windows, the moon glows brighter. (References the Vessel Deception and the secret New Age religion.)
 
 ### Shot: The Disillusionment
-**Prompt:** A close-up of a Vessel's face (could be Rahu or Linn) showing confusion and pain as they realize the prophecy they were programmed to speak is a lie. Their eyes glow with Aether-fire. (Reflects the moment Rahu and Linn reject their programming.)
+**Prompt:** A close-up of a Vessel's face (could be Rahu or Lynn) showing confusion and pain as they realize the prophecy they were programmed to speak is a lie. Their eyes glow with Aether-fire. (Reflects the moment Rahu and Lynn reject their programming.)
 
 ### Shot: Fire vs. Water
-**Prompt:** Rahu (Fire element) and Linn (Water element) in a tense standoff, their Aether energies clashing—red and blue light swirling around them as they debate the truth. (Visualizes the Vessels' internal conflict and elemental opposition.)
+**Prompt:** Rahu (Fire element) and Lynn (Water element) in a tense standoff, their Aether energies clashing—red and blue light swirling around them as they debate the truth. (Visualizes the Vessels' internal conflict and elemental opposition.)

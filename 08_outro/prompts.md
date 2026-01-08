@@ -23,8 +23,8 @@ The sky has cleared enough to reveal the Moon fragments scattered across the hor
 ### Shot: Lem in the Shadows
 **Prompt:** The Wood Vessel (Lem) standing alone in a mechanical forest of white trees, observing the slow evolution of Mechanical Cells. His silhouette is contemplative, surrounded by the living machines he was blamed for creating. (Visualizes Lem's isolation and witness to the unfolding tragedy.)
 
-### Shot: Linn's Isolation
-**Prompt:** Linn (the Water Vessel) in a vast, glass-like desert of Glazed Ocean, her figure small against the shimmering, vitrified landscape. She is distant from the Fire Cities, seeking isolation from those who worship her. (Captures her role as the scapegoated "Witch of the Glass Oceans.")
+### Shot: Lynn's Isolation
+**Prompt:** Lynn (the Water Vessel) in a vast, glass-like desert of Glazed Ocean, her figure small against the shimmering, vitrified landscape. She is distant from the Fire Cities, seeking isolation from those who worship her. (Captures her role as the scapegoated "Witch of the Glass Oceans.")
 
 ### Shot: General Tor's Awakening
 **Prompt:** General Tor, massive and imposing, standing at the edge of a Fire City, looking up at the pillars of fire with a new expression—confusion and pain. For the first time, he questions the routines he followed. (Shows his moment of awakening from internal slumber.)
