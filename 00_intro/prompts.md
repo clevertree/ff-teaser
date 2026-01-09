@@ -43,7 +43,7 @@ SUBJECT: INTERCEPTION AND SUPPRESSION OF QUATRAIN X-72 (NON-CANONICAL) CLEARANCE
 **Prompt:** A shadowy, candle-lit gathering of elite figures in a modern boardroom, performing a ritual with a Vessel (humanoid, ambiguous gender, not fully human). The Vessel recites the "Prophecy of the King of Terror" as the group watches in awe and fear. (Directly references the Vessel Deception and secret religion.)
 
 ### Shot: The Arrival Overlooked
-**Prompt:** A busy city street in daylight. In the background, a Tripod silhouette is visible, but the crowd is distracted by their phones and screens, ignoring the looming threat. (Visual metaphor for the public missing the signs until too late.)
+**Prompt:** A busy city street in daylight. In the background, a massive **Monolith** silhouette is visible through a brown haze, but the crowd is distracted by their phones and flickering screens, ignoring the looming threat. (Visual metaphor for the public missing the signs until too late.)
 
 ### Shot: Selenite Memory
 **Prompt:** A fleeting, dreamlike image of the indigenous Selenites—gentle, bioluminescent lunar beings—retreating into shadowy lunar caves as the first Synodic machines begin to grow on the Moon's surface. (References the original lunar inhabitants from ff-story.)
