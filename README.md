@@ -19,11 +19,12 @@ The teaser's imagery and tone directly parallel the events depicted in the story
 - **Cradle Prime:** The shielded **Lunar Pyramid**, now the headquarters of the Archivists.
 - **Synodic Aesthetic:** 
     - **Monoliths:** Stadium-sized, grown organic-mechanical industrial plants with two legs, two arms, and a forward-arching head. Mistakenly called "Tripods" due to their movement patterns.
-    - **Striders:** Smaller, high-speed vehicles piloted by **Gorgons**. Closely resemble Wellsian "Tripods" (articulated hoods, thin legs, tentacles).
+    - **Striders:** Smaller, high-speed vehicles piloted by **Gorgons**. Closely resemble Wellsian "Tripods" (articulated hoods, thin legs, tentacles). These fire **invisible heat rays** and were engineered by the Core as "perfect slave" builders.
 - **The Vessels:** 
     - **Lem:** Adolescent protagonist carrying **AI Lynn** as a spectral data-stream in his Aether-Drive.
     - **Rahu & Tor:** Reset loyalist commanders in clinical, Synodic-grown armor.
     - **Metal Vessels:** Numerous, shared-consciousness units lacking individual spirits.
+    - **Gorgons (Builders):** Fire-aligned metallic entities with shared hiveminds. Evolved as a static Core experiment on the Moon; they migrate to Fire Cities like **Cradle Zero** for warmth.
 
 ## Song Structure & Refined Timings
 

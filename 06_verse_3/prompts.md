@@ -34,11 +34,17 @@
 ### Shot: The Archivist Vanguard (Phalanx)
 **Prompt:** A horizon filled with thousands of identical, gleaming Silver/Metal Vessels standing in precise geometric formations. Above them, a holographic emblem of the **Archivists** (the Core) glows in the smog. They appear as holy guardians rather than invaders—the image of "order" in a chaotic world. (Visualizes the public-facing rebranding of the Technocratic Core.)
 
+### Shot: The Builder Migration (Gorgons)
+**Prompt:** Thousands of metallic, spider-like **Gorgons** (the Builders) falling from a darkened sky like silver rain, descending toward the blinding **Pillar of Fire** at Cradle Zero. They appear brittle and desperate, seeking warmth. In the foreground, a single Gorgon crawls slowly across the sand, its many whipping arms glowing with internal fire energy. (Captures the migration of the heat-dependent Builders to Earth.)
+
+### Shot: Wellsian Striders in Ruin
+**Prompt:** A group of three-legged **Striders** (Wellsian Tripods) picking their way through the ruins of a collapsed skyscraper. They feature articulated hoods and retractable metal tentacles. A single shimmering distortion (the **Invisible Heat Ray**) emits from a front mounted lens, melting a structural beam into liquid metal. (Visualizes the mobile units piloted by Gorgons.)
+
 ### Shot: The Thousand-Year Fallacy
 **Prompt:** A futuristic classroom or holographic archive showing a timeline that stretches back 1,000 years, depicting a long, slow technological decline. The reality (the 15-year-old Cataclysm) is hidden. Children watch in awe as the Archivists are presented as the saviors of a millennium of history. (Captures the propaganda machine of the After Time.)
 
 ### Shot: Gorgon Sabotage
-**Prompt:** An Archivist operative in a dark suit standing near a dormant **Gorgon** technician. The operative is tampering with the Gorgon's interface, intentionally triggering its "animalistic" failure state. In the background, a **Strider** begins to glow with violent red energy. (Visualizes the Archivists' method for creating "alien" threats to justify their rule.)
+**Prompt:** An Archivist operative in a dark suit standing near a dormant **Gorgon** individual. All Gorgons appear identical, with a massive metallic "head" and whipping arms. The operative is tampering with the Gorgon's interface, intentionally triggering its "animalistic" failure state. In the background, a **Strider** begins to glow with violent red energy. (Visualizes the Archivists' method for creating "alien" threats to justify their rule.)
 
 ### Shot: Mechanical Forest Growth
 **Prompt:** A "Wood" element forest of glowing white and silver mechanical trees spreading across a desolate landscape. Their branches form intricate circuits and geometric patterns. (Visualizes the Wood element machines constructing their structures.)
