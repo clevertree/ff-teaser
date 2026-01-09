@@ -21,3 +21,12 @@ This project is an animated teaser for "Stars Die" by Porcupine Tree, serving as
 ## Coding & Automation
 - When writing scripts (Python/Bash), prioritize automation for media organization and FFmpeg processing.
 - Ensure any generated timestamps are formatted for easy import into animation software.
+
+## Version Management
+- **Source of Truth:** The current version is stored in `VERSION`.
+- **Protocol:** Bump the version in `VERSION` on **every git commit**.
+- **Reasonable Versioning:**
+    - **Major (X.0.0):** Completion of a full song section (e.g., Intro, Verse 1 complete) or a total visual/stylistic overhaul.
+    - **Minor (0.X.0):** New shot scripts, updated audio alignment, or significant tool automation improvements.
+    - **Patch (0.0.X):** Precise timing tweaks, metadata corrections, or minor script bug fixes.
+
