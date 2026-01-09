@@ -7,7 +7,7 @@
 
 ## Visual Ideas
 - **02:12 - Stars Die:** Shot from space. The Earth's Moon is shattered into pieces with giant chunks remaining. Blinding plasma flows between the fragments, holding them in a loose, chaotic formation. Show seperate chunks spreading out. 
-- **02:26 - Blinding Skies:** Cut to a shot from Earth in a desert blasted from instense heat.
-- A strange effect is happening on the mountains - they are collecting material and growing with narrow peeks
-- using material drawn upwards by intense electric discharge. 
-- Increasing visual distortion as we approach the Nixon interlude.
+- **02:26 - Blinding Skies:** Cut to a shot from Earth in a desert blasted from intense heat (**Cradle Zero**).
+- A strange effect is happening on the mountains—they are collecting material and growing with narrow peaks using material drawn upwards by intense electric discharge. This is the first stage of **Synodic Reconstruction**.
+- **The Pillar of Fire:** A towering column of plasma marks the site of the first **Fire City**.
+- Increasing visual distortion as we approach the Nixon interlude, signifying the collapse of historical consensus.

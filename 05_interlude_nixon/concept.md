@@ -12,9 +12,9 @@
 [03:00.00] And as you talk to us from the Sea of Tranquility, it inspires us to redouble our efforts to bring peace and tranquility to Earth
 
 ## Visual Ideas
-- **02:40 - Heavens become a part of man's world:** Shot from Earth looking up. The sky plasma from the **Lunar Capacitor** discharge is rapidly being covered up by a heavy, dark smog—the first of the soot-clouds from the **Fire Cities**. The heavens are "joining" Earth through this new, toxic atmosphere.
-- **03:00 - Sea of Tranquility:** Nixon's speech is shown as scrolling text on an old TV screen. The screen is flickering and "going dead" from the effects of the **Great Fry** (static, horizontal lines, fading brightness).
-- **03:00 - 03:23:** The scene gradually fades to total blackness as the pre-Cataclysm power grid fails globally.
+- **02:40 - Heavens become a part of man's world:** Shot from Earth looking up. The sky is ignited by the plasma of the **Great Fry**. The dark smoke of the first **Fire Cities** (burning terrestrial grids) begins to rise, merging with the lunar debris. The "heavens" are literally falling to Earth.
+- **03:00 - Sea of Tranquility:** Nixon's speech is shown as scrolling text over a montage of the **Media Flood**. We see rapid cuts of "Leaked Documents," "Vessel Cult Meetings," and **Rahu's** distorted lunar transmission. All screens are flickering and "going dead" from the **Great Fry** electromagnetic surge (static, horizontal lines, fading brightness).
+- **03:00 - 03:23:** The "Media Flood" static transitions to total blackness as the pre-Cataclysm power grid fails globally. The last thing visible is a tattered copy of the *New Chronology* book lying in the mud, illuminated by a dying streetlight.
 - **03:23:** Music kicks in, transitioning to the fast-cut war sequence in the next section (The First Year AT).
 
 03:23-03:35 is when the music comes back in, so the next scene starts at 03:23

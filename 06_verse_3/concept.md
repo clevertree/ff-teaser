@@ -10,10 +10,10 @@
 - Hyper sleep to end the day
 
 ## Visual Ideas
-- **03:23 - Music Kicks In:** Immediate cut to several fast shots of wars occurring in the future. Tripods are active, moving through the dark distance. The sky is choked with black smog. A tremendous, blinding pillar of fire reaches from the ground to the sky, causing the dark smog to spread across the Earth.
-- **03:35.27 - Idle Mind:** A shot of an artificial "mechanical" forest with bright, luminous trees made of technology. No organic life is visible.
-- **03:42.64 - And Severed Soul:** A shot of a high-tech metal base built in a desolate desert with endless valleys and random sharp cliffs.
-- **03:47.98 - Silent Nerves:** A shot from space. An unknown person sits on a floating fragment of the destroyed Moon, watching the Earth quietly.
-- **03:52.00 - And Begging Bowl:** A shot of rugged-looking towns devoid of technology, enduring the new dark ages in a cold wind.
-- **03:57.94 - Shallow Haze to Blast a Way:** A futuristic space-capable ship takes off from Earth and enters orbit.
-- **04:03.84 - Hyper Sleep to End the Day:** A shot of a futuristic incubating cube with a humanoid lifeform growing within.
+- **03:23 - Music Kicks In:** Immediate cut to the **Archivist Era (Year 1-15 AT)**. Fast shots of **Synodic Reconstruction** on the Moon. The lunar surface now features starkly "alien," organically grown spires. A tremendous, blinding **Pillar of Fire** reaches from the ground at **Cradle Zero**, fueling the permanent smog veil.
+- **03:35.27 - Idle Mind:** A shot of an artificial "mechanical" forest. Wood-element structures (structural vines and mechanical trees) "Taking Root" in a ruined city.
+- **03:42.64 - And Severed Soul:** A shot of the **Cradle Zero** ruins—the original base now a scorched desert of sharp cliffs and thermal arcs.
+- **03:47.98 - Silent Nerves:** A shot of **Adolescent Lem** (Wood Vessel) looking at the Earth from the shadows of a lunar fragment, his eyes reflecting the Aether-Drive's data flow.
+- **03:52.00 - And Begging Bowl:** Human survivors in a settlement cluster, huddled around a fire, holding physical copies of the *New Chronology* books as their only source of history.
+- **03:57.94 - Shallow Haze to Blast a Way:** An Archivist spacecraft (Synadic-grown, bone-like appearance) takes off from the **Lunar Pyramid (Cradle Prime)** and enters orbit, heading for Earth.
+- **04:03.84 - Hyper Sleep to End the Day:** A shot of a clinical **Aether-Cradle** where **Metal Vessels** are incubating. Their bodies are uniform, glowing with a shared, collective consciousness.

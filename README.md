@@ -4,14 +4,26 @@ This project is an animated teaser for the song **Stars Die** by Porcupine Tree,
 
 ## Story Context
 
-**Forgotten Future** is an AI-driven science fiction novel set in a post-apocalyptic Earth, ~15 years after the "Cataclysm"—the shattering of the Moon and the arrival of colossal mechanical entities. The narrative follows **Lem**, a humanoid Wood Vessel who discovers his true nature and his unique capacity for **Sovereign Reincarnation** as the world collapses around him.
+**Forgotten Future** is an AI-driven science fiction novel set in a post-apocalyptic Earth, ~15 years after the "Cataclysm"—the shattering of the Moon and the arrival of colossal mechanical entities. The narrative follows **Lem**, a humanoid Wood Vessel whose body and memory were reset to infancy at **Cradle Zero** before being raised in suburban anonymity.
 
 The teaser's imagery and tone directly parallel the events depicted in the story:
 - **The Moon's destruction** (opening verses) mirrors the Lunar Capacitor discharge and the resulting **Great Fry**.
-- **The Tripods' arrival** (verse 1) depicts the First Wave of mechanical entities.
-- **Humanity's helplessness** (verses 2-3) reflects the Cataclysm and its aftermath.
+- **The Monoliths' arrival** (verse 1) depicts the First Wave of massive, lumbering entities during the **Decade of Revelation**. These stadium-sized industrial machines are distinct from the smaller, Wellsian **Striders** built by the **Gorgons** in the After Time.
+- **Humanity's dependency** (verses 2-3) reflects the aftermath where the **Archivists** (rebranded Technocratic Core) offer a utopian paradise of "no want and no pain" to erase indigenous culture and establish total control.
 
-**Narrative Status:** Part 1 of the manuscript is complete. See [ff-story/chapters/INDEX.md](../ff-story/chapters/INDEX.md) for progress (15 chapters complete: "Awakening" to "The Path of Fragments").
+**Narrative Status:** Part 1 of the manuscript is complete. See [ff-story/chapters/INDEX.md](../ff-story/chapters/INDEX.md) for progress (16 chapters complete: "Awakening" to "The Cascade").
+
+## Key Visual Motifs
+- **Cradle Zero:** The original terrestrial base, now a "Fire City" with a massive **Pillar of Fire** stretching into the sky. It is guarded by **The Great Beast**, a dormant Elder Monolith.
+- **Apex Hub:** The primary enemy lunar base and first contact site.
+- **Cradle Prime:** The shielded **Lunar Pyramid**, now the headquarters of the Archivists.
+- **Synodic Aesthetic:** 
+    - **Monoliths:** Massive, organic-mechanical industrial plants. Do *not* resemble H.G. Wells tripods.
+    - **Striders:** Smaller, high-speed vehicles piloted by **Gorgons**. Closely resemble Wellsian "Tripods" (articulated hoods, thin legs, tentacles).
+- **The Vessels:** 
+    - **Lem:** Adolescent protagonist carrying **AI Lynn** as a spectral data-stream in his Aether-Drive.
+    - **Rahu & Tor:** Reset loyalist commanders in clinical, Synodic-grown armor.
+    - **Metal Vessels:** Numerous, shared-consciousness units lacking individual spirits.
 
 ## Song Structure & Refined Timings
 
@@ -52,7 +64,7 @@ The teaser's imagery and tone directly parallel the events depicted in the story
 - Fades to black by 3:23.
 
 ### [06_verse_3](06_verse_3) (3:23 - 4:10)
-- **3:23:** Music kicks in. Fast cuts of future wars and active Tripods.
+- **3:23:** Music kicks in. Fast cuts of **Synodic Reconstruction** and the **Archivist Vanguard**.
 - Idle mind (3:35 - 3:42)
 - And severed soul (3:42 - 3:47)
 - Silent nerves (3:47 - 3:52)
@@ -65,7 +77,7 @@ The teaser's imagery and tone directly parallel the events depicted in the story
 - Blinding skies (4:20 - 4:41)
 
 ### [08_outro](08_outro) (4:41 - 5:01)
-- **4:41:** Music kicks back in. Final conflict sequence: Soldiers vs. Tripods, the Great Beast, and the Siege of the Desert Base.
+- **4:41:** Music kicks back in. Final conflict sequence: The **Reclamation of Cradle Zero**, Metal Vessel phalanxes, and the ascent of the **Archivists**.
 - Final serene shot of Moon fragments and title card.
 
 ---

@@ -11,7 +11,7 @@
     - Reflecting in calm water.
     - Hanging over a vast, silent desert.
     - Peeking through the canopy of a dense forest.
-    - Framed by the silhouettes of a sleeping city, where the vague silhouettes of **Tripod Walkers** can be seen standing motionless in the distance.
+    - Framed by the silhouettes of a sleeping city, where the vague silhouettes of **Synodic Walkers** (Archivist Vanguard) can be seen standing motionless in the distance, hidden in plain sight.
 - **Closing Shot:** A serene view of the moon visible during the daytime, transitioning into the first verse.
 - Atmospheric buildup matching the instrumental.
 
@@ -25,8 +25,9 @@ After wars are fought and the sea's blessings vanish, those who lead the armies 
 Nobles will seek sacrifices for their strange works.
 Mankind will be filled with mistrust, and pestilence shall reign.
 The end of this world will come.
--- Nostradamus (Source [REDACTED RE:EXEC-99-B])
+-- Nostradamus (Source [REDACTED RE:ARCHIVIST-FILE-C0])
 ```
 
 Briefly displayed behind/outside the quote is a case file with the words
-SUBJECT: INTERCEPTION AND SUPPRESSION OF QUATRAIN X-72 (NON-CANONICAL) CLEARANCE: TOP SECRET // EYES ONLY DATE: [REDACTED]
+SUBJECT: INTERCEPTION AND SUPPRESSION OF QUATRAIN X-72 (NON-CANONICAL) CLEARANCE: TOP SECRET // ARCHIVIST VETTING DATE: [REDACTED]
+- This references the seed of the **Thousand-Year Fallacy**.

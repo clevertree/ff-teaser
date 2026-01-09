@@ -14,5 +14,5 @@
 - **01:44 - Mountain Cried:** Mountains are struck by massive, intense electric discharges from the sky, illuminating the peaks in jagged white light.
 - **01:51 - Bridges Broke:** A shot of an old city bridge disintegrating and collapsing from the combined effects of force and heat.
 - **01:57 - Window Sighed:** A shot of an old building; the entire structure, including a prominent window, is visibly melting and warping.
-- **02:02 - Cells Grew Up:** Switch to a shot of a robotic, mechanical substance. Tiny globular components rapidly gather and assemble into larger blocks without much defined shape or purpose.
-- **02:07 - Sound Obscured:** The energy stored within the moon finally bursts out. The moon shatters across the sky in another blinding explosion, filling the frame with light and debris.
+- **02:02 - Cells Grew Up:** Switch to a shot of **Synodic Shards** (Mechanical Cells). Tiny fragments rapidly replicate and assemble following **Wuxing Causality**, growing into the foundations of a **Synodic Walker** or a massive **Aether-Cradle**—an organic-mechanical hybrid that lacks any human engineering logic.
+- **02:07 - Sound Obscured:** The **Lunar Capacitor** reaches peak discharge. The Moon shatters in another blinding explosion, filling the orbit with debris and marking the start of the **Great Fry**. This shot captures the "sense reversed" aspect as gravity and light warp around the discharge.

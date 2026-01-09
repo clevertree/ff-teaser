@@ -16,5 +16,8 @@
 ### Shot: The Smog's Victory
 **Prompt:** A timeline showing the sky progressively darkening as smog accumulates. In the first frame, stars are visible. By the last frame, complete darkness except for the distant glow of Fire Cities. (Shows the creeping environmental collapse.)
 
+### Shot: The Archivist Citadel & Striders
+**Prompt:** A massive, alien-looking **Archivist Citadel** (Synodic grown) towers over a ruined city. Beneath it, high-speed **Striders** (Wellsian tripods with articulated hoods and thin legs) patrol the streets. They are elegant, terrifying, and efficient.
+
 ### Shot: Gorgon Awakening
-**Prompt:** A massive, multi-armed metallic Gorgon head rising from beneath layers of smog and dust. Its heat-ray glows softly in the darkness. It is indifferent, pursuing its preprogrammed routine. (Introduces the benign but fearsome Gorgons of the After Time.)
+**Prompt:** A massive, multi-armed metallic **Gorgon** head rising from its incubation nest. Its heat-ray glows softly in the darkness. It is preparing to pilot its **Strider** chassis through the ruins. Indifferent, highly intelligent, pursuing preprogrammed routines.

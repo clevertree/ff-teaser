@@ -11,10 +11,10 @@
 ## Hero Image 3: Moon over Desert
 **Prompt:** The moon hanging over a vast, silent desert with sharp rock formations. Long shadows, desolate atmosphere. 70s sci-fi aesthetic.
 
-## Hero Image 4: City with Tripods
+## Hero Image 4: City with Monoliths
 **Prompt:** A city at night, silhouettes of buildings against a dark sky. 
-Vague, towering silhouettes of very tall alien Tripod Walkers standing motionless in the distance staring down at the city.
-The Earth's moon is visible behind them. Dark, atmospheric, H.G. Wells inspired.
+Vague, towering silhouettes of stadium-sized, rectangular and organic-mechanical **Monoliths** standing motionless in the distance staring down at the city. They look like industrial plants with legs, not traditional walking machines.
+The Earth's moon is visible behind them. Dark, atmospheric, monumental scale. (These are the Elder Synodics, NOT the Wellsian Striders.)
 
 ## Redacted Quote
 **Prompt:** Pretend there was a redacted quote from Nostradamus.
@@ -25,9 +25,12 @@ After wars are fought and the sea's blessings vanish, those who lead the armies 
 Nobles will seek sacrifices for their strange works.
 Mankind will be filled with mistrust, and pestilence shall reign.
 The end of this world will come.
--- Nostradamus (Source [REDACTED RE:EXEC-99-B])
+-- Nostradamus (Source [REDACTED RE:ARCHIVIST-FILE-C0])
 ```
 Briefly displayed behind/outside the quote is a case file with the words
+SUBJECT: INTERCEPTION AND SUPPRESSION OF QUATRAIN X-72 (NON-CANONICAL) CLEARANCE: TOP SECRET // ARCHIVIST VETTING DATE: [REDACTED]
+- This references the seed of the **Thousand-Year Fallacy**.
+
 SUBJECT: INTERCEPTION AND SUPPRESSION OF QUATRAIN X-72 (NON-CANONICAL) CLEARANCE: TOP SECRET // EYES ONLY DATE: [REDACTED]
 
 

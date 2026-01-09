@@ -2,19 +2,21 @@
 
 **Style Guide:** Cinematic, dark sci-fi, realistic epic sci-fi, H.R. Giger meets H.G. Wells, grainy 70s film stock aesthetic, high detail, 8k.
 
-## Hero Image 1: The Great Beast
-**Prompt:** Massive slow tripod figures - mechanical creature the size of a stadium looming in the distance through thick smog. Its menacing eyes glow with a dim, red light.
-These are the same figures that were used in the first scene, slightly evolved. They have become useless in the future and roam around in the darkness following preprogrammed paths.
+## Hero Image 1: The Great Beast (Elder Monolith)
+**Prompt:** A massive, stadium-sized mechanical entity—**The Great Beast**—looming in the distance through thick smog. It is a slow, lumbering **Monolith**, one of the original Fire-aligned shipyard-entities from the First Wave. Its menacing eyes glow with a dim, red light. It follows a preprogrammed industrial routine, ignored by the human populace as if it were a natural landscape feature. (Does NOT look like a Wellsian tripod.)
 
-## Hero Image 2: Witch Humanoids
-**Prompt:** Faceless, witch-like humanoids in shaggy, disintegrating tiny metal fragments. They appear unstable, as if just formed from dust. Eerie, supernatural, mechanical. 
-Note: No witch hats or brooms or anything associated with witch lore. 
-The witches are made of technology - tiny balls, hooks, and fragments that come together to form big machines
+## Hero Image 2: The Witch (Mara Manifestation)
+**Prompt:** A shaggy, flickering humanoid figure—**The Witch**—appearing to be composed of disintegrating metal fragments, Aetheric blue water, and sparks of Fire. It looks highly unstable, its form constantly shedding shards like metal dust. It is a terrifying, emergent Synodic anomaly. 
+Note: No generic witch attributes (hats, etc.). The "witch" look comes from the shaggy, hanging metal shrapnel and tattered Aetheric flow.
 
-## Hero Image 3: Electromagnetic Vortex
-**Prompt:** A witch-like figure posing on the ground, generating a shimmering electromagnetic vortex that deflects incoming projectiles and energy beams. Shadowy figures in the background are being pushed back by the force.
+## Hero Image 3: The Witch's Pulse Shield (Surface Contact)
+**Prompt:** A manifestation of **The Witch** being struck by a barrage of bullets. The surface of its body is glowing with an intense white-blue electrical charge. The moment the metal bullets touch the shaggy metal exterior of the entity, they explode into sparks of molten orange liquid and are deflected away. A high-speed, cinematic capture of kinetic energy being converted into thermal discharge upon contact. 
+(Demonstrates the surface-pulse mechanic where the entity's high-voltage charge melts projectiles.)
 
-## Hero Image 4: Final Serene Sky
+## Hero Image 4: Metal Vessel Phalanx (Archivist Vanguard)
+**Prompt:** Clinical, efficient, and faceless **Metal Vessels** in precise phalanx formations. Their armor is clean, Synodic-grown, and clinical (organic-industrial). They stand in stark contrast to the unstable chaos of the Witch. These are shared-consciousness units operating as a single, silent machine.
+
+## Hero Image 5: Final Serene Sky
 **Prompt:** A serene view from the ground looking at the horizon and Earth's sky during the dawn. 
 The sky has cleared enough to reveal the Moon fragments scattered across the horizon and sky. Peaceful but scarred.
 
