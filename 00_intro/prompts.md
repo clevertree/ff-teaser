@@ -13,8 +13,8 @@
 
 ## Hero Image 4: City with Monoliths
 **Prompt:** A city at night, silhouettes of buildings against a dark sky. 
-Vague, towering silhouettes of stadium-sized, rectangular and organic-mechanical **Monoliths** standing motionless in the distance staring down at the city. They look like industrial plants with legs, not traditional walking machines.
-The Earth's moon is visible behind them. Dark, atmospheric, monumental scale. (These are the Elder Synodics, NOT the Wellsian Striders.)
+Vague, towering silhouettes of stadium-sized **Monoliths** standing motionless in the distance staring down at the city. They feature **two massive legs and two primary arms** stretched to the ground, and enormous heads that arch forward over the buildings. They appear "grown" (biomimetic organic-mechanical) rather than industrially built.
+The Earth's moon is visible behind them. Dark, atmospheric, monumental scale. (These are the Elder Synodics, often mistakenly called "Tripods" by the public.)
 
 ## Redacted Quote
 **Prompt:** Pretend there was a redacted quote from Nostradamus.

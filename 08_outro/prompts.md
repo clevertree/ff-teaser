@@ -3,7 +3,7 @@
 **Style Guide:** Cinematic, dark sci-fi, realistic epic sci-fi, H.R. Giger meets H.G. Wells, grainy 70s film stock aesthetic, high detail, 8k.
 
 ## Hero Image 1: The Great Beast (Elder Monolith)
-**Prompt:** A massive, stadium-sized mechanical entity—**The Great Beast**—looming in the distance through thick smog. It is a slow, lumbering **Monolith**, one of the original Fire-aligned shipyard-entities from the First Wave. Its menacing eyes glow with a dim, red light. It follows a preprogrammed industrial routine, ignored by the human populace as if it were a natural landscape feature. (Does NOT look like a Wellsian tripod.)
+**Prompt:** A massive, stadium-sized mechanical entity—**The Great Beast**—looming in the distance through thick smog. It is a slow, lumbering **Monolith** with **two massive legs and two primary arms** that reach the ground. Its enormous head arches forward as if perpetually peering down at the ruins. Its menacing eyes glow with a dim, red light. It follows a preprogrammed industrial routine, ignored by the human populace as if it were a natural landscape feature. (Grown organic-mechanical hybrid; NOT a Wellsian tripod.)
 
 ## Hero Image 2: The Witch (Mara Manifestation)
 **Prompt:** A shaggy, flickering humanoid figure—**The Witch**—appearing to be composed of disintegrating metal fragments, Aetheric blue water, and sparks of Fire. It looks highly unstable, its form constantly shedding shards like metal dust. It is a terrifying, emergent Synodic anomaly. 

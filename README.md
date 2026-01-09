@@ -8,7 +8,7 @@ This project is an animated teaser for the song **Stars Die** by Porcupine Tree,
 
 The teaser's imagery and tone directly parallel the events depicted in the story:
 - **The Moon's destruction** (opening verses) mirrors the Lunar Capacitor discharge and the resulting **Great Fry**.
-- **The Monoliths' arrival** (verse 1) depicts the First Wave of massive, lumbering entities during the **Decade of Revelation**. These stadium-sized industrial machines are distinct from the smaller, Wellsian **Striders** built by the **Gorgons** in the After Time.
+- **The Monoliths' arrival** (verse 1) depicts the First Wave of massive, lumbering entities during the **Decade of Revelation**. These stadium-sized industrial machines feature **two massive legs and two primary arms**—forming a four-pointed stance often mistaken for a tripod by the public. They are grown organic-mechanical hybrids, distinct from the smaller, Wellsian **Striders** built by the **Gorgons** in the After Time.
 - **Humanity's dependency** (verses 2-3) reflects the aftermath where the **Archivists** (rebranded Technocratic Core) offer a utopian paradise of "no want and no pain" to erase indigenous culture and establish total control.
 
 **Narrative Status:** Part 1 of the manuscript is complete. See [ff-story/chapters/INDEX.md](../ff-story/chapters/INDEX.md) for progress (16 chapters complete: "Awakening" to "The Cascade").
@@ -18,7 +18,7 @@ The teaser's imagery and tone directly parallel the events depicted in the story
 - **Apex Hub:** The primary enemy lunar base and first contact site.
 - **Cradle Prime:** The shielded **Lunar Pyramid**, now the headquarters of the Archivists.
 - **Synodic Aesthetic:** 
-    - **Monoliths:** Massive, organic-mechanical industrial plants. Do *not* resemble H.G. Wells tripods.
+    - **Monoliths:** Stadium-sized, grown organic-mechanical industrial plants with two legs, two arms, and a forward-arching head. Mistakenly called "Tripods" due to their movement patterns.
     - **Striders:** Smaller, high-speed vehicles piloted by **Gorgons**. Closely resemble Wellsian "Tripods" (articulated hoods, thin legs, tentacles).
 - **The Vessels:** 
     - **Lem:** Adolescent protagonist carrying **AI Lynn** as a spectral data-stream in his Aether-Drive.

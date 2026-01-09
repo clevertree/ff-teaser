@@ -8,7 +8,7 @@ The Moon is a blinding white ball of rock and glowing plasma, like a second sun.
 Earth is visible in the background, partially scorched. Avoid any unnatural looking shapes or effects
 
 ## Hero Image 2: Monoliths in the City
-**Prompt:** Stadium-sized organic-mechanical **Monoliths** active in a human city. They have lumbering, thick legs and massive rectangular bodies. They use mechanical arms and invisible thermal beams to systematically dismantle power grids and buildings. They are indifferent to the exploding moon in the sky above. Industrial, menacing, monumental scale. (Elder Synodics, distinct from later Wellsian Striders.)
+**Prompt:** Stadium-sized organic-mechanical **Monoliths** active in a human city. They have **two massive legs and two primary arms** that reach the ground for support and destruction. Their enormous heads arch forward, staring down at the skyscrapers. They use their mechanical arms like crane-assemblies to systematically dismantle power grids and buildings. They are indifferent to the exploding moon in the sky above. Grown industrial-biological entities, menacing, monumental scale. (Elder Synodics, distinct from later Wellsian Striders.)
 
 ## Additional/Alternate Shots (Story Context: The Vessels' Influence Crumbling)
 
