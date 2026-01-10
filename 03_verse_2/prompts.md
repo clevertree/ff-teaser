@@ -26,5 +26,8 @@ Eerie, technological growth in a natural setting, cinematic lighting, 8k.
 ### Shot: Wuxing Warfare
 **Prompt:** Earth and **Metal Synanthropes** (if visible) standing against **Striders**, their elemental energies clashing. Earth element creates barriers, Metal element refracts heat, but they are slowly overwhelmed. (Reflects the Wuxing causality: Fire defeats Metal, Metal defeats Wood, Earth restrains Fire.)
 
-### Shot: The Last Survivors
-**Prompt:** A small group of humans fleeing a burning city, silhouetted against the glow of advancing Fire. The mechanical cells spread like a plague across the ground. (Captures humanity's helplessness against the Synodic invasion.)
+### Shot: The Hermes vs Rahu
+**Prompt:** A massive capital flagship, the *Hermes*, plunging through a field of lunar debris to engage a figure of living fire (Rahu) on the moon's surface. The ship's weapons are firing, and Rahu is blasting back with intense thermal energy. Epic, world-shaking scale.
+
+### Shot: Tor's Sacrifice
+**Prompt:** Inside the bridge of the *Hermes*, General Tor stands at the command console as the ship descends toward a fatal impact. The bridge is filled with fire and debris, but he remains calm and stoic, fulfilling his duty. (Tor's final moment before the crash.)

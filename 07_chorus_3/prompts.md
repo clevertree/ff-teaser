@@ -19,5 +19,8 @@
 ### Shot: The Archivist Citadel & Striders
 **Prompt:** A massive, alien-looking **Archivist Citadel** (Synodic grown) towers over a ruined city. Beneath it, high-speed **Striders** (Wellsian tripods with articulated hoods and thin legs) patrol the streets. They are elegant, terrifying, and efficient.
 
-### Shot: Gorgon Awakening
-**Prompt:** A massive, multi-armed metallic **Gorgon** head rising from its incubation nest. Its heat-ray glows softly in the darkness. It is preparing to pilot its **Strider** chassis through the ruins. Indifferent, highly intelligent, pursuing preprogrammed routines.
+### Shot: Rahu's Logical Failure (The Panic)
+**Prompt:** A close-up of Rahu's face (Fire Vessel) with his eyes flickering between data streams and raw memory of the Cataclysm. His face is contorted in a logical failure—a digital panic as his programming collapses.
+
+### Shot: Remote Detonation (Cradle Zero)
+**Prompt:** A massive thermal explosion at the heart of the Fire City. Rahu's physical form is incinerated instantly as a pre-programmed failsafe is triggered. In the flash, the silhouettes of Gorgons and Monoliths are momentarily visible.

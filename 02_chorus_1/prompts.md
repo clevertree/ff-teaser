@@ -18,5 +18,11 @@ Earth is visible in the background, partially scorched. Avoid any unnatural look
 ### Shot: The Disillusionment
 **Prompt:** A close-up of a Vessel's face (could be Rahu or Lynn) showing confusion and pain as they realize the prophecy they were programmed to speak is a lie. Their eyes glow with Aether-fire. (Reflects the moment Rahu and Lynn reject their programming.)
 
-### Shot: Fire vs. Water
-**Prompt:** Rahu (Fire element) and Lynn (Water element) in a tense standoff, their Aether energies clashing—red and blue light swirling around them as they debate the truth. (Visualizes the Vessels' internal conflict and elemental opposition.)
+### Shot: Aether-Drive Fugue
+**Prompt:** A disorienting dream-state inside Lem's mind. Mission markers, tactical HUD data, and fragments of memory swirl in a dark void. Glowing green mission objectives ping and fade. (Lem's consciousness after the crash.)
+
+### Shot: Novak's Revelation
+**Prompt:** Commander Novak, a stern woman in a military officer's uniform, standing over a deactivated Lem on a cratered lunar surface. She is illuminated by the glowing moon-crust. She looks down with cold necessity as she delivers the architecture revelation.
+
+### Shot: Rahu's Moon Threat
+**Prompt:** A massive thermal signature on the lunar surface—a figure of living fire (Rahu) standing amidst jagged lunar rocks, looking up at the approaching human strike teams. The heat is so intense the air around him shimmers like a supernova.

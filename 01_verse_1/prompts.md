@@ -25,8 +25,14 @@ The metal is glowing and warping, sagging into fluid, molten shapes. Intense hea
 ### Shot: Wood Element Eruption
 **Prompt:** Green, organic-looking Aether energy swirling around the moon's eruption—a burst of biomimetic growth escaping the lunar surface. Vines of luminous technology reaching into space. (Reflects Lem's uncontrolled Wood element nature and the mechanical infection spreading.)
 
-### Shot: The Selenites' Last Refuge
-**Prompt:** Indigenous Selenites, bioluminescent and peaceful, desperately retreating into deep lunar caverns as the first Synodic shards spread across the surface. Their ancient underground cities glow with soft light, contrasting the mechanical rot above. (References the displacement of the indigenous lunar species.)
+### Shot: The Caucasian Eagle Descent
+**Prompt:** A colossal capital spaceship, *The Caucasian Eagle*, its hull scorched and venting gas, plummeting toward the cratered lunar surface. Massive debris rings of lunar rock spiral around it. The scale is monumental. (Matches Ch. 8 of the manuscript.)
+
+### Shot: Floating Debris Rings
+**Prompt:** Rings of lunar rock and mechanical debris spiraling upward from the Moon's surface, caught in an impossible gravitational or aetheric pull. The Moon glows with inner heat behind the fragments. (Reflects the physics of the Cataclysm.)
+
+### Shot: Lem's Activation
+**Prompt:** An adolescent boy (Lem) on Earth, his eyes glowing with a faint green light as a remote compulsion link is established. Patterns of mechanical Wood-technology spread across his skin like bark. (Lynn forcing his activation.)
 
 ### Copilot Note
 > Repeat this process over time: Whenever ff-story is updated, review and update ff-teaser prompts to ensure visual and conceptual alignment. Add new alternate shots as the narrative evolves.

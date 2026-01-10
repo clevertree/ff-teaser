@@ -34,8 +34,11 @@
 ### Shot: The Archivist Vanguard (Phalanx)
 **Prompt:** A horizon filled with thousands of identical, gleaming Silver/Metal Vessels standing in precise geometric formations. Above them, a holographic emblem of the **Archivists** (the Core) glows in the smog. They appear as holy guardians rather than invaders—the image of "order" in a chaotic world. (Visualizes the public-facing rebranding of the Technocratic Core.)
 
-### Shot: The Builder Migration (Gorgons)
-**Prompt:** Thousands of metallic, spider-like **Gorgons** (the Builders) falling from a darkened sky like silver rain, descending toward the blinding **Pillar of Fire** at Cradle Zero. They appear brittle and desperate, seeking warmth. In the foreground, a single Gorgon crawls slowly across the sand, its many whipping arms glowing with internal fire energy. (Captures the migration of the heat-dependent Builders to Earth.)
+### Shot: Gorgon Migration (Cradle Zero)
+**Prompt:** Thousands of metallic, spider-like **Gorgons** (the Builders) falling from a darkened sky like silver rain, descending toward the blinding **Pillar of Fire** at Cradle Zero. They appear brittle and desperate, seeking warmth. (Matches the Gorgon Migration event.)
+
+### Shot: The Staring Gorgon (Lem's Soul)
+**Prompt:** A close-up of a single metallic **Gorgon** with multiple whipping arms. Its main "central sensor" (eye) glows with a faint, soulful green light. It stands perfectly still, staring with hyper-observance at the viewer. (Lem's consciousness inside a Gorgon body.)
 
 ### Shot: Wellsian Striders in Ruin
 **Prompt:** A group of three-legged **Striders** (Wellsian Tripods) picking their way through the ruins of a collapsed skyscraper. They feature articulated hoods and retractable metal tentacles. A single shimmering distortion (the **Invisible Heat Ray**) emits from a front mounted lens, melting a structural beam into liquid metal. (Visualizes the mobile units piloted by Gorgons.)

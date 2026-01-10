@@ -19,5 +19,8 @@
 ### Shot: The EMP Cascade
 **Prompt:** A computer screen showing cascading error messages and black screens as an invisible electromagnetic pulse washes over the city. Lights flicker and die. Digital records vanish in an instant. (Visualizes the "Great Fry" that erases humanity's history.)
 
-### Shot: The Physical Archive
-**Prompt:** A book—the *New Chronology*—sitting alone on a shelf as the world around it collapses in fire and darkness. The book is weathered but intact. (Foreshadows how this book will become mistaken for true history.)
+### Shot: The New Chronology Books
+**Prompt:** A close-up of a stack of freshly printed history books, titled *The New Chronology*. The dates inside show 102X for the Moon Cataclysm. A hand in a clean Archivist uniform is placing them on a shelf. (The creation of the Thousand-Year Fallacy.)
+
+### Shot: Rahu Propaganda (The Traitor)
+**Prompt:** A flickering digital billboard from 202X showing Rahu's face with the word "TRAITOR" or "VILLAIN" stamped over it. The text claims he is an alien agent. (Propaganda used to discredit Rahu's warnings.)

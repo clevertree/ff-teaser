@@ -17,3 +17,6 @@
 - **03:52.00 - And Begging Bowl:** Human survivors in a settlement cluster, huddled around a fire, holding physical copies of the *New Chronology* books as their only source of history.
 - **03:57.94 - Shallow Haze to Blast a Way:** An Archivist spacecraft (Synadic-grown, bone-like appearance) takes off from the **Lunar Pyramid (Cradle Prime)** and enters orbit, heading for Earth.
 - **04:03.84 - Hyper Sleep to End the Day:** A shot of a clinical **Aether-Cradle** where **Metal Vessels** are incubating. Their bodies are uniform, glowing with a shared, collective consciousness.
+- **Sequence: The Builders:**
+    - The metallic "Silver Rain" of Gorgons migrating to Cradle Zero.
+    - The "Staring Gorgon" (Lem) witnessing the Archivist advance.

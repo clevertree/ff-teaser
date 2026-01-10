@@ -21,5 +21,11 @@
 ### Shot: The Moon's Last Moments
 **Prompt:** The Moon fragmenting in ultra-slow motion, chunks of rock and Synodic machinery floating apart, still connected by threads of glowing plasma. (Captures the scale of the Cataclysm's destruction.)
 
-### Shot: The Prophecy Fulfilled?
-**Prompt:** A human figure standing alone in a devastated landscape, watching the Moon break apart in the sky. They clutch a copy of the "Prophecy of the King of Terror" in their hands. Rain of ash falls around them. (Questions whether the prophecy was a warning or a curse.)
+### Shot: The Apex Hub Pyramid
+**Prompt:** A massive pyramid of impossible precision and dark, shimmering surface, standing amidst the apocalyptic collapse of a lunar city. The ground is shaking and debris is falling, but the pyramid is a stone-cold sanctuary of order. (Ch. 12 background.)
+
+### Shot: Ash-Blackened Tor
+**Prompt:** General Tor emerging from the wreckage of a crashed spaceship, his skin and uniform blackened with ash and lunar dust. He looks battered but remains a force of nature. He is sealing a bunker door behind him. (Tor's survival in the pyramid.)
+
+### Shot: Lynn's Capacitor Sacrifice
+**Prompt:** Lynn (Water Vessel) stepping into the blinding energy field of the Lunar Capacitor. She is dissolving into fluid and integrating with the machine, her form glowing with blue light as she attempts the reset. Tor is reaching for her but is repelled by the field.

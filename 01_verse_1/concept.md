@@ -15,3 +15,7 @@
 - **00:46 - Melted Wire:** Cut to a city setting. A tight closeup of a power line as it begins to sag and melt from the rapidly increasing atmospheric heat and electromagnetic surge.
 - **00:56 - Voices Buzzed:** Cut to a city street full of people. They haven't felt the heat yet, but they are looking up in terror at the moon erupting above the horizon.
 - **01:00 - Stars Dived:** The moon reaches a blinding white luminosity. The resulting **Great Fry** (EMP) causes orbiting debris and moon fragments to fall from the sky, appearing as blinding flames ("stars diving").
+- **Sequence: The Descent:**
+    - The *Caucasian Eagle* plummeting toward the moon.
+    - Floating debris rings spiraling upward.
+    - Lem's eyes glowing as his Wood Vessel nature is forcibly activated.

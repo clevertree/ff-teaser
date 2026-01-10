@@ -31,8 +31,14 @@ The sky has cleared enough to reveal the Moon fragments scattered across the hor
 ### Shot: General Tor's Awakening
 **Prompt:** General Tor, massive and imposing, standing at the edge of a Fire City, looking up at the pillars of fire with a new expression—confusion and pain. For the first time, he questions the routines he followed. (Shows his moment of awakening from internal slumber.)
 
-### Shot: The Archivists
-**Prompt:** A small group of survivors in a hidden archive, surrounded by Pre-Fry books and digital storage devices they've managed to preserve. They study yellowed documents, trying to prove the world is only 15 years old, not 1,000. (References the Archivists' struggle against the Thousand-Year Fallacy.)
+### Shot: AI Lynn interface
+**Prompt:** Inside Lem's visual field (HUD), a spectral, low-resolution projection of Lynn's face (the Water Vessel). She is monochromatic blue and glitchy, providing mission markers and warnings. (The software legacy guiding Lem.)
+
+### Shot: Electronic Snakes
+**Prompt:** Massive, metallic serpents with segmented backbones and glowing data-veins, slithering through the "White Forest" of mechanical trees. They are designed to hunt and "consume" digital signals. 10 meters long, menacing.
+
+### Shot: Analog Sanctuary 
+**Prompt:** Human survivors in a high-tech but "analog" sanctuary. They are surrounded by bulky monitors, wave-forms on oscilloscopes, and hand-drawn maps. A survivor is wearing an "Analog Interface Helmet" with copper wires and lenses. No digital screens visible.
 
 ### Shot: The Forgotten Prophecy
 **Prompt:** A close-up of the "Prophecy of the King of Terror" quatrain, written on an old, faded document. It sits in dust, no longer believed to be relevant—the prophecy was fulfilled, and now it's just history. (Circles back to the opening, showing how the prophecy has become forgotten mythology.)

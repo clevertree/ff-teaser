@@ -48,5 +48,14 @@ SUBJECT: INTERCEPTION AND SUPPRESSION OF QUATRAIN X-72 (NON-CANONICAL) CLEARANCE
 ### Shot: Selenite Memory
 **Prompt:** A fleeting, dreamlike image of the indigenous Selenites—gentle, bioluminescent lunar beings—retreating into shadowy lunar caves as the first Synodic machines begin to grow on the Moon's surface. (References the original lunar inhabitants from ff-story.)
 
+### Shot: Mature Lynn (Selene)
+**Prompt:** A commanding, serene woman in her late 40s with a shimmering, water-like aura. She is dressed in futuristic, flowing robes, presented as a goddess (Selene) to the public. Her eyes are filled with a hidden, weary intelligence. (Reflects her public persona at the Zenith.)
+
+### Shot: Lem (Suburban Adolescent)
+**Prompt:** An unremarkable adolescent boy standing in a cluttered suburban bedroom, staring out the window with a look of hyper-observance. He is surrounded by 2020s artifacts—a laptop, posters, a digital watch. He is Wood Vessel Lem before his activation.
+
+### Shot: General Tor (Public Profile)
+**Prompt:** A massive, domineering man in a high-ranking military uniform, standing before a backdrop of order and strength. He looks like a symbol of unyielding loyalty and discipline. (Public persona of the Earth Vessel.)
+
 ### Copilot Note
 > Repeat this process over time: Whenever the story in ff-story is updated, review and update the prompts in ff-teaser to ensure visual and conceptual alignment. Add new alternate/extra shots as the narrative evolves.
