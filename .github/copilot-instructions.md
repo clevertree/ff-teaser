@@ -1,4 +1,4 @@
-# Copilot Instructions for Stars Die Teaser Project
+# Copilot Instructions for Stars Die Teaser Project (Clevertree)
 
 This project is an animated teaser for "Stars Die" by Porcupine Tree, serving as a conceptual teaser for the game project **Forgotten Future**.
 

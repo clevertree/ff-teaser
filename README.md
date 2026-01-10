@@ -1,5 +1,7 @@
 ![img.png](img.png)![img_1.png](img_1.png)# Stars Die - Animated Teaser Plan
 
+A Clevertree Production.
+
 This project is an animated teaser for the song **Stars Die** by Porcupine Tree, serving as a conceptual teaser for the **Forgotten Future** narrative.
 
 ## Story Context
