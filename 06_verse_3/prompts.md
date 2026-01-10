@@ -20,13 +20,13 @@
 ## Hero Image 6: Incubating Cube
 **Prompt:** A futuristic, glowing incubating cube. Inside, a humanoid lifeform is slowly growing. High-tech, biological-mechanical hybrid.
 
-## Additional/Alternate Shots (Story Context: Dr. Aris Vane & Metal Vessels)
+## Additional/Alternate Shots (Story Context: Dr. Elowen Vane & Metal Vessels)
 
 ### Shot: The Metal Vessel Creation
 **Prompt:** A gleaming, featureless humanoid figure emerging from an Aether-fueled incubation chamber. Its surface is smooth, reflective metal with glowing circuit-lines. Multiple identical units line the walls behind it. (Visualizes the creation of the perfectly obedient Metal Synanthropes.)
 
-### Shot: Dr. Aris Vane's Dilemma
-**Prompt:** A woman (Aris Vane) standing in a high-tech laboratory, looking at blueprints for the Metal Vessels with a complex expression—ambition, regret, and resignation. The lab reflects cold, clinical light. (Captures her reluctant decision to build the Metal units.)
+### Shot: Dr. Elowen Vane's Dilemma
+**Prompt:** A woman (Elowen Vane) standing in a high-tech laboratory, looking at blueprints for the Metal Vessels with a complex expression—ambition, regret, and resignation. The lab reflects cold, clinical light. (Captures her reluctant decision to build the Metal units.)
 
 ### Shot: The Fire Cities' Expansion
 **Prompt:** Multiple pillars of fire rising from different locations across a smog-covered Earth. The pillars connect in a web of energy arcs. The smog thickens. (Shows how the Fire Cities multiply and intensify the atmospheric darkness.)
