@@ -20,27 +20,24 @@ Note: No generic witch attributes (hats, etc.). The "witch" look comes from the 
 **Prompt:** A serene view from the ground looking at the horizon and Earth's sky during the dawn. 
 The sky has cleared enough to reveal the Moon fragments scattered across the horizon and sky. Peaceful but scarred.
 
+## Hero Image 6: Lem's Technician Disguise (Cradle Zero)
+**Prompt:** Lem (the Wood Vessel) in a parched, tan technician's uniform, standing in a crowded, festive city plaza at **Cradle Zero**. The city is built with **Synodic mounds** of matte substrate integrated into white stone high-rises. Citizens are laughing in open-air cafes, unaware of the **Striders** (Wellsian tripods) cleaning windows above them. Lem's eyes look slightly out of focus—he looks like a ghost in a costume of static. (Visualizes the Core's festive, slave-driven paradise.)
+
+## Hero Image 7: Iris Novak's Warning
+**Prompt:** A tense, close-up encounter between **Iris Novak** and **Lem** in the middle of a crowded Hive City plaza. Iris, in her severe Chief Science Officer uniform, has a firm grip on Lem's arm, her face tight with urgency. Scanning drones hover overhead, their red lights blinking. She is warning the "King of the Gorgons" that his time has run out. (Captures the fragmentation within the Core leadership.)
+
+## Hero Image 8: The Mirror Greeting (Inside the Spire)
+**Prompt:** Inside a vast, silent **Spire City** (Fire City). Lem stands before a non-aggressive **Gorgon** in a low-slung, six-legged mechanical crawler. Both have their right arms raised, palms open toward each other, revealing a small **glowing white node** in the center of their palms. A column of intense fire roars in the distance, but the foreground is stone-cold and perfectly still. (Gorgon is metallic, fluid, and non-threatening.)
+
+## Hero Image 9: The Mirror Greeting (Dream State)
+**Prompt:** Aetheric dream-state projection of a **Gorgon's true humanoid self-image**. A small, translucent humanoid entity with massive, unblinking eyes and delicate, hairless limbs. It floats in a nutrient-rich bath within a glowing, aetheric bubble. It communicates through sharp, rhythmic ripples of red and blue light. (Visualizes the creature inside the machine.)
+
+## Hero Image 10: The Propaganda Strike (Arlo's Village)
+**Prompt:** A massive city-wide broadcast on multiple monolithic screens at **Cradle Zero**. The screen shows a high-resolution surveillance photo of **Arlo's village** (wood-core huts, northern wilderness). A headline in bold, clinical Archivist font reads: "TERRORIST CELL IDENTIFIED: NORTHERN VILLAGE SECURITY THREAT." Festive city lights and laughing citizens are reflected in the glass of the screens.
+
 ## Additional/Alternate Shots (Story Context: The After Time, Year 15 AT)
 
 ### Shot: Lem in the Shadows
-**Prompt:** The Wood Vessel (Lem) standing alone in a mechanical forest of white trees, observing the slow evolution of Mechanical Cells. His silhouette is contemplative, surrounded by the living machines he was blamed for creating. (Visualizes Lem's isolation and witness to the unfolding tragedy.)
-
-### Shot: Lynn's Isolation
-**Prompt:** Lynn (the Water Vessel) in a vast, glass-like desert of Glazed Ocean, her figure small against the shimmering, vitrified landscape. She is distant from the Fire Cities, seeking isolation from those who worship her. (Captures her role as the scapegoated "Witch of the Glass Oceans.")
-
-### Shot: General Tor's Awakening
-**Prompt:** General Tor, massive and imposing, standing at the edge of a Fire City, looking up at the pillars of fire with a new expression—confusion and pain. For the first time, he questions the routines he followed. (Shows his moment of awakening from internal slumber.)
-
-### Shot: AI Lynn interface
-**Prompt:** Inside Lem's visual field (HUD), a spectral, low-resolution projection of Lynn's face (the Water Vessel). She is monochromatic blue and glitchy, providing mission markers and warnings. (The software legacy guiding Lem.)
-
-### Shot: Electronic Snakes
-**Prompt:** Massive, metallic serpents with segmented backbones and glowing data-veins, slithering through the "White Forest" of mechanical trees. They are designed to hunt and "consume" digital signals. 10 meters long, menacing.
-
-### Shot: Analog Sanctuary 
-**Prompt:** Human survivors in a high-tech but "analog" sanctuary. They are surrounded by bulky monitors, wave-forms on oscilloscopes, and hand-drawn maps. A survivor is wearing an "Analog Interface Helmet" with copper wires and lenses. No digital screens visible.
-
-### Shot: The Forgotten Prophecy
 **Prompt:** A close-up of the "Prophecy of the King of Terror" quatrain, written on an old, faded document. It sits in dust, no longer believed to be relevant—the prophecy was fulfilled, and now it's just history. (Circles back to the opening, showing how the prophecy has become forgotten mythology.)
 
 ### Copilot Note for All Prompts Files
