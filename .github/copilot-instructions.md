@@ -22,6 +22,10 @@ This project is an animated teaser for "Stars Die" by Porcupine Tree, serving as
 - When writing scripts (Python/Bash), prioritize automation for media organization and FFmpeg processing.
 - Ensure any generated timestamps are formatted for easy import into animation software.
 
+## Narrative Alignment
+- **POV:** The story of **Forgotten Future** is told exclusively from Lem's POV. Maintain this perspective in any conceptual narrative elements.
+- **Vessel Consciousness:** Vessels and Gorgons possess human-like or living consciousness. They are not mindless robots.
+
 ## Version Management
 - **Source of Truth:** The current version is stored in `VERSION`.
 - **Protocol:** Bump the version in `VERSION` on **every git commit**.
