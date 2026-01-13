@@ -1,3 +1,4 @@
+c9e4b01 v0.9.2: Sync chapter counts and metadata
 eecfd66 Add COMMIT_HISTORY.md and update Copilot instructions
 5b67a57 Update Copilot instructions and bump version
 9cb7d4c Add hero image concepts for Great Stalemate arc, bump v0.4.0
