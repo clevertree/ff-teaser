@@ -34,3 +34,8 @@ This project is an animated teaser for "Stars Die" by Porcupine Tree, serving as
     - **Minor (0.X.0):** New shot scripts, updated audio alignment, or significant tool automation improvements.
     - **Patch (0.0.X):** Precise timing tweaks, metadata corrections, or minor script bug fixes.
 
+## Commit History
+- **Requirement:** Maintain a `COMMIT_HISTORY.md` file in the root of the repository.
+- **Protocol:** Update `COMMIT_HISTORY.md` with a one-line summary of the new commit on **every git commit**.
+- **Syncing:** If you notice `COMMIT_HISTORY.md` is out of date, sync it immediately by running `git log --oneline > COMMIT_HISTORY.md`.
+
