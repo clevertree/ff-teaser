@@ -1,3 +1,4 @@
+bc5785a chore: sync metadata with 32-chapter structure
 3720f29 Add independent pre-commit hook
 c9e4b01 v0.9.2: Sync chapter counts and metadata
 eecfd66 Add COMMIT_HISTORY.md and update Copilot instructions
