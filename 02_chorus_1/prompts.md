@@ -25,4 +25,4 @@ Earth is visible in the background, partially scorched. Avoid any unnatural look
 **Prompt:** Commander Novak, a stern woman in a military officer's uniform, standing over a deactivated Lem on a cratered lunar surface. She is illuminated by the glowing moon-crust. She looks down with cold necessity as she delivers the architecture revelation.
 
 ### Shot: Rahu's Moon Threat
-**Prompt:** A massive thermal signature on the lunar surface—a figure of living fire (Rahu) standing amidst jagged lunar rocks, looking up at the approaching human strike teams. The heat is so intense the air around him shimmers like a supernova.
+**Prompt:** A massive thermal signature on the lunar surface—a Synodic Fire Vessel (human-sized) wreathed in living flame (Rahu) standing amidst jagged lunar rocks, looking up at the approaching human strike teams. The heat emanating from him is so intense the air around him shimmers like a supernova.
