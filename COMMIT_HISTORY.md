@@ -1,3 +1,5 @@
+c07a34f Bump version and update history
+45dc455 chore: update teaser prompts
 19f4a69 chore: update version and commit history
 99672b0 chore: sync metadata with 32-chapter structure
 bc5785a chore: sync metadata with 32-chapter structure
