@@ -21,7 +21,7 @@
 ### Shot: The Moon's Last Moments
 **Prompt:** The Moon fragmenting in ultra-slow motion, chunks of rock and Synodic machinery floating apart, still connected by threads of glowing plasma. (Captures the scale of the Cataclysm's destruction.)
 
-### Shot: The Apex Hub Pyramid
+### Shot: The Cradle Prime Pyramid
 **Prompt:** A massive pyramid of impossible precision and dark, shimmering surface, standing amidst the apocalyptic collapse of a lunar city. The ground is shaking and debris is falling, but the pyramid is a stone-cold sanctuary of order. (Ch. 12 background.)
 
 ### Shot: Ash-Blackened Tor

@@ -4,7 +4,7 @@
 
 ## Hero Image 1: Disintegrating Moon
 **Prompt:** A wide shot from space showing the Earth's Moon in close proximity to Earth. 
-The Moon is a blinding white ball of rock and glowing plasma, like a second sun. 
+The Moon is a blinding white ball of rock and glowing plasma, like a sun. 
 Earth is visible in the background, partially scorched. Avoid any unnatural looking shapes or effects
 
 ## Hero Image 2: Monoliths in the City

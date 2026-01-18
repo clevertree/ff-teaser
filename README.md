@@ -17,7 +17,7 @@ The teaser's imagery and tone directly parallel the events depicted in the story
 
 ## Key Visual Motifs
 - **Cradle Zero:** The original terrestrial base, now a "Fire City" with a massive **Pillar of Fire** stretching into the sky. It is guarded by **The Great Beast**, a dormant Elder Monolith.
-- **Apex Hub:** The primary enemy lunar base and first contact site.
+- **Cradle Prime:** The primary enemy lunar base and first contact site.
 - **Cradle Prime:** The shielded **Lunar Pyramid**, now the headquarters of the Archivists.
 - **Synodic Aesthetic:** 
     - **Monoliths:** Stadium-sized, grown organic-mechanical industrial plants with two legs, two arms, and a forward-arching head. Mistakenly called "Tripods" due to their movement patterns.
