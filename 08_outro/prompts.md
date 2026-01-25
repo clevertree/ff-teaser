@@ -20,14 +20,14 @@ Note: No generic witch attributes (hats, etc.). The "witch" look comes from the 
 **Prompt:** A serene view from the ground looking at the horizon and Earth's sky during the dawn. 
 The sky has cleared enough to reveal the Moon fragments scattered across the horizon and sky. Peaceful but scarred.
 
-## Hero Image 6: Lem's Technician Disguise (Cradle Zero)
-**Prompt:** Lem (the Wood Vessel) in a parched, tan technician's uniform, standing in a crowded, festive city plaza at **Cradle Zero**. The city is built with **Synodic mounds** of matte substrate integrated into white stone high-rises. Citizens are laughing in open-air cafes, unaware of the **Striders** (Wellsian tripods) cleaning windows above them. Lem's eyes look slightly out of focus—he looks like a ghost in a costume of static. (Visualizes the Core's festive, slave-driven paradise.)
+## Hero Image 6: Ren's Technician Disguise (Cradle Zero)
+**Prompt:** Ren (the Wood Vessel) in a parched, tan technician's uniform, standing in a crowded, festive city plaza at **Cradle Zero**. The city is built with **Synodic mounds** of matte substrate integrated into white stone high-rises. Citizens are laughing in open-air cafes, unaware of the **Striders** (Wellsian tripods) cleaning windows above them. Ren's eyes look slightly out of focus—he looks like a ghost in a costume of static. (Visualizes the Core's festive, slave-driven paradise.)
 
 ## Hero Image 7: Iris Novak's Warning
-**Prompt:** A tense, close-up encounter between **Iris Novak** and **Lem** in the middle of a crowded Hive City plaza. Iris, in her severe Chief Science Officer uniform, has a firm grip on Lem's arm, her face tight with urgency. Scanning drones hover overhead, their red lights blinking. She is warning the "King of the Gorgons" that his time has run out. (Captures the fragmentation within the Core leadership.)
+**Prompt:** A tense, close-up encounter between **Iris Novak** and **Ren** in the middle of a crowded Hive City plaza. Iris, in her severe Chief Science Officer uniform, has a firm grip on Ren's arm, her face tight with urgency. Scanning drones hover overhead, their red lights blinking. She is warning the "King of the Gorgons" that his time has run out. (Captures the fragmentation within the Core leadership.)
 
 ## Hero Image 8: The Mirror Greeting (Inside the Spire)
-**Prompt:** Inside a vast, silent **Spire City** (Fire City). Lem stands before a non-aggressive **Gorgon** in a low-slung, six-legged mechanical crawler. Both have their right arms raised, palms open toward each other, revealing a small **glowing white node** in the center of their palms. A column of intense fire roars in the distance, but the foreground is stone-cold and perfectly still. (Gorgon is metallic, fluid, and non-threatening.)
+**Prompt:** Inside a vast, silent **Spire City** (Fire City). Ren stands before a non-aggressive **Gorgon** in a low-slung, six-legged mechanical crawler. Both have their right arms raised, palms open toward each other, revealing a small **glowing white node** in the center of their palms. A column of intense fire roars in the distance, but the foreground is stone-cold and perfectly still. (Gorgon is metallic, fluid, and non-threatening.)
 
 ## Hero Image 9: The Mirror Greeting (Dream State)
 **Prompt:** Aetheric dream-state projection of a **Gorgon's true humanoid self-image**. A small, translucent humanoid entity with massive, unblinking eyes and delicate, hairless limbs. It floats in a nutrient-rich bath within a glowing, aetheric bubble. It communicates through sharp, rhythmic ripples of red and blue light. (Visualizes the creature inside the machine.)
@@ -37,7 +37,7 @@ The sky has cleared enough to reveal the Moon fragments scattered across the hor
 
 ## Additional/Alternate Shots (Story Context: The After Time, Year 15 AT)
 
-### Shot: Lem in the Shadows
+### Shot: Ren in the Shadows
 **Prompt:** A close-up of the "Prophecy of the King of Terror" quatrain, written on an old, faded document. It sits in dust, no longer believed to be relevant—the prophecy was fulfilled, and now it's just history. (Circles back to the opening, showing how the prophecy has become forgotten mythology.)
 
 ### Copilot Note for All Prompts Files

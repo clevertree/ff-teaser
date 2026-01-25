@@ -18,4 +18,4 @@
 - **Sequence: The Descent:**
     - The *Caucasian Eagle* plummeting toward the moon.
     - Floating debris rings spiraling upward.
-    - Lem's eyes glowing as his Wood Vessel nature is forcibly activated.
+    - Ren's eyes glowing as his Wood Vessel nature is forcibly activated.

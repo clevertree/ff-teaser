@@ -13,9 +13,9 @@
     - Peeking through the canopy of a dense forest.
     - Framed by the silhouettes of a sleeping city, where the vague silhouettes of **Monoliths** can be seen standing motionless in the distance, hidden in plain sight.
 - **Sequence: The Deception of Order:**
-    - Mature Lynn (Selene) as a public goddess.
+    - Mature Lynn (Kira) as a public goddess.
     - General Tor as a symbol of military discipline.
-    - Adolescent Lem living a "normal" suburban life.
+    - Adolescent Ren living a "normal" suburban life.
 - **Closing Shot:** A serene view of the moon visible during the daytime, transitioning into the first verse.
 - Atmospheric buildup matching the instrumental.
 

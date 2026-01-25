@@ -1,3 +1,4 @@
+b01a09e Update teaser prompts and README
 1afcb96 Bump version 0.9.12
 c07a34f Bump version and update history
 45dc455 chore: update teaser prompts
