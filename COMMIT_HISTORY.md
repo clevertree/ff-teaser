@@ -1,3 +1,6 @@
+bda9170 chore: global character rename (Lem->Ren, Maya->Kira) in teaser
+a18c94c Add Verse 1 video generation prompt based on latest story updates
+41736dd Content: Update outro concepts and prompts.
 b01a09e Update teaser prompts and README
 1afcb96 Bump version 0.9.12
 c07a34f Bump version and update history
@@ -61,7 +64,7 @@ e60ea9e Bump version to 0.1.11
 9f39705 chore: add versioning and sync visuals v0.1.1
 d9aa737 Sync teaser prompts with refined Monolith/Strider anatomy and Archivist lore
 9c38aaa Update teaser prompts with refined Monolith anatomy and forward-arching head detail
-3589580 Sync teaser concepts with updated lore: Monoliths, Striders, and the Maya anomaly
+3589580 Sync teaser concepts with updated lore: Monoliths, Striders, and the Mara anomaly
 9a5451a Sync lore: Update teaser concepts with Lunar Capacitor, Great Fry, and Fire City terminology
 b94b149 docs: update teaser README to reflect narrative composition
 e0ceb4b Add 31 additional/alternate shot folders and run image generation with story context

@@ -10,7 +10,7 @@
 - **01:20 - Blinding Skies:** Cut back to a "from-Earth" perspective. The Moon has become a blinding fireball dominating the sky.
 - **The Walkers:** During this 20-second sequence, we see the **Synodic Walkers** (introduced in the intro). They are now active inside the city, systematically "harvesting" infrastructure. They wield invisible thermal beams, dismantling or "glazing" buildings into raw materials. Crucially, they seem completely uninterested in the Moon's cataclysm, focused entirely on their own work agendas as if the destruction of the world is merely a logistical hurdle.
 - **Sequence: Fragments of Truth:**
-    - Ren's disorienting Aether-Drive fugue.
-    - Novak's silent reveal of Ren's artificial architecture.
+    - Lem's disorienting Aether-Drive fugue.
+    - Novak's silent reveal of Lem's artificial architecture.
     - Rahu as a localized thermal threat on the cratered lunar surface.
 - Transitioning back to a more grounded but still surreal landscape for the next verse.

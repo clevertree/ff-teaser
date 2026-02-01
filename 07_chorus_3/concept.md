@@ -12,6 +12,6 @@
 - **Sequence: The Failure:**
     - Rahu's face flickering in a localized digital panic.
     - The thermal incinerating flash of Rahu's remote detonation at Cradle Zero.
-- **Ren's Face:** A final shot of Ren—reset, adolescent, and appearing "ordinary" once more—looking up at the smog-filled sky with an expression of blank realization.
+- **Lem's Face:** A final shot of Lem—reset, adolescent, and appearing "ordinary" once more—looking up at the smog-filled sky with an expression of blank realization.
 - Final crescendo of the dying stars theme as the world transitions into the **Thousand-Year Fallacy**.
 - Maximum visual intensity before the fade out.

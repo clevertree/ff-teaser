@@ -19,10 +19,10 @@ Earth is visible in the background, partially scorched. Avoid any unnatural look
 **Prompt:** A close-up of a Vessel's face (could be Rahu or Lynn) showing confusion and pain as they realize the prophecy they were programmed to speak is a lie. Their eyes glow with Aether-fire. (Reflects the moment Rahu and Lynn reject their programming.)
 
 ### Shot: Aether-Drive Fugue
-**Prompt:** A disorienting dream-state inside Ren's mind. Mission markers, tactical HUD data, and fragments of memory swirl in a dark void. Glowing green mission objectives ping and fade. (Ren's consciousness after the crash.)
+**Prompt:** A disorienting dream-state inside Lem's mind. Mission markers, tactical HUD data, and fragments of memory swirl in a dark void. Glowing green mission objectives ping and fade. (Lem's consciousness after the crash.)
 
 ### Shot: Novak's Revelation
-**Prompt:** Commander Novak, a stern woman in a military officer's uniform, standing over a deactivated Ren on a cratered lunar surface. She is illuminated by the glowing moon-crust. She looks down with cold necessity as she delivers the architecture revelation.
+**Prompt:** Commander Novak, a stern woman in a military officer's uniform, standing over a deactivated Lem on a cratered lunar surface. She is illuminated by the glowing moon-crust. She looks down with cold necessity as she delivers the architecture revelation.
 
 ### Shot: Rahu's Moon Threat
 **Prompt:** A massive thermal signature on the lunar surface—a Synodic Fire Vessel (human-sized) wreathed in living flame (Rahu) standing amidst jagged lunar rocks, looking up at the approaching human strike teams. The heat emanating from him is so intense the air around him shimmers like a supernova.

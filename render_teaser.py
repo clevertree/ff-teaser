@@ -11,7 +11,7 @@ def render():
         print(f"Error: {input_file} not found. Please run 'python3 generate_kdenlive.py' first.")
         return
 
-    print(f"Rendering {input_file.name} to {output_file.name} using melt...")
+    print(f"Lemdering {input_file.name} to {output_file.name} using melt...")
     
     # We use melt to render the MLT XML (Kdenlive) file.
     # The consumer 'avformat' is used for encoding to MP4.

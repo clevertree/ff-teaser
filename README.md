@@ -6,7 +6,7 @@ This project is an animated teaser for the song **Stars Die** by Porcupine Tree,
 
 ## Story Context
 
-**Forgotten Future** is an AI-driven science fiction novel set in a post-apocalyptic Earth, ~15 years after the "Cataclysm"—the shattering of the Moon and the arrival of colossal mechanical entities. The narrative follows **Ren**, a humanoid Wood Vessel whose body and memory were reset to infancy at **Cradle Zero** before being raised in suburban anonymity.
+**Forgotten Future** is an AI-driven science fiction novel set in a post-apocalyptic Earth, ~15 years after the "Cataclysm"—the shattering of the Moon and the arrival of colossal mechanical entities. The narrative follows **Lem**, a humanoid Wood Vessel whose body and memory were reset to infancy at **Cradle Zero** before being raised in suburban anonymity.
 
 The teaser's imagery and tone directly parallel the events depicted in the story:
 - **The Moon's destruction** (opening verses) mirrors the Lunar Capacitor discharge and the resulting **Great Fry**.
@@ -23,7 +23,7 @@ The teaser's imagery and tone directly parallel the events depicted in the story
     - **Monoliths:** Stadium-sized, grown organic-mechanical industrial plants with two legs, two arms, and a forward-arching head. Mistakenly called "Tripods" due to their movement patterns.
     - **Striders:** Smaller, high-speed vehicles piloted by **Gorgons**. Closely resemble Wellsian "Tripods" (articulated hoods, thin legs, tentacles). These fire **invisible heat rays** and were engineered by the Core as "perfect slave" builders.
 - **The Vessels:** 
-    - **Ren:** Adolescent protagonist carrying **AI Lynn** as a spectral data-stream in his Aether-Drive.
+    - **Lem:** Adolescent protagonist carrying **AI Lynn** as a spectral data-stream in his Aether-Drive.
     - **Rahu & Tor:** Reset loyalist commanders in clinical, Synodic-grown armor.
     - **Metal Vessels:** Numerous, shared-consciousness units lacking individual spirits.
     - **Gorgons (Builders):** Fire-aligned metallic entities with shared hiveminds. Evolved as a static Core experiment on the Moon; they migrate to Fire Cities like **Cradle Zero** for warmth.
