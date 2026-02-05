@@ -12,6 +12,6 @@
 - **The Pillar of Fire:** A towering column of plasma marks the site of the first **Fire City**.
 - **Sequence: The Sanctuary:**
     - The dark, precise pyramid of the Cradle Prime.
-    - Tor, ash-blackened and scarred, sealing the sanctuary door.
+    - Ajax, ash-blackened and scarred, sealing the sanctuary door.
     - Lynn's final sacrifice as she dissolves into the Lunar Capacitor.
 - Increasing visual distortion as we approach the Nixon interlude, signifying the collapse of historical consensus.

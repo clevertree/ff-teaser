@@ -24,8 +24,8 @@
 ### Shot: The Cradle Prime Pyramid
 **Prompt:** A massive pyramid of impossible precision and dark, shimmering surface, standing amidst the apocalyptic collapse of a lunar city. The ground is shaking and debris is falling, but the pyramid is a stone-cold sanctuary of order. (Ch. 12 background.)
 
-### Shot: Ash-Blackened Tor
-**Prompt:** General Tor emerging from the wreckage of a crashed spaceship, his skin and uniform blackened with ash and lunar dust. He looks battered but remains a force of nature. He is sealing a bunker door behind him. (Tor's survival in the pyramid.)
+### Shot: Ash-Blackened Ajax
+**Prompt:** General Ajax emerging from the wreckage of a crashed spaceship, his skin and uniform blackened with ash and lunar dust. He looks battered but remains a force of nature. He is sealing a bunker door behind him. (Ajax's survival in the pyramid.)
 
 ### Shot: Lynn's Capacitor Sacrifice
-**Prompt:** Lynn (Water Vessel) stepping into the blinding energy field of the Lunar Capacitor. She is dissolving into fluid and integrating with the machine, her form glowing with blue light as she attempts the reset. Tor is reaching for her but is repelled by the field.
+**Prompt:** Lynn (Water Vessel) stepping into the blinding energy field of the Lunar Capacitor. She is dissolving into fluid and integrating with the machine, her form glowing with blue light as she attempts the reset. Ajax is reaching for her but is repelled by the field.

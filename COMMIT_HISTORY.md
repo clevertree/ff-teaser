@@ -1,3 +1,4 @@
+851ea89 Update teaser concepts and prompts with new lore
 bda9170 chore: global character rename (Lem->Ren, Maya->Kira) in teaser
 a18c94c Add Verse 1 video generation prompt based on latest story updates
 41736dd Content: Update outro concepts and prompts.

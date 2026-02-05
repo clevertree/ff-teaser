@@ -7,7 +7,7 @@
 ## Visual Ideas
 - **04:41 - Final Conflict Sequence:** As the music kicks back in, we witness the **Reclamation of Cradle Zero** (Year 13 AT):
     - **The Pillar of Fire:** A wide shot of the **Desert Base (Cradle Zero)**, dominated by a massive, sky-reaching pillar of heat and energy.
-    - **The Vanguard:** **Reset Tor** and **Reset Rahu** leading a phalanx of **Metal Vessels**. Rahu is framed by the camera as a "Heroic Martyr," his silhouette noble against the flames—reflecting the **Thousand-Year Fallacy** narrative.
+    - **The Vanguard:** **Reset Ajax** and **Reset Rahu** leading a phalanx of **Metal Vessels**. Rahu is framed by the camera as a "Heroic Martyr," his silhouette noble against the flames—reflecting the **Thousand-Year Fallacy** narrative.
     - **The Maya Manifestation:** Suddenly, an unstable anomaly—**The Witch (Maya)**—erupts from the Synodic dust. It is shaggy, flickering, and composed of Water, Fire, Wood, and Metal. It generates an EMP that melts the Archivist projectiles, presenting as an "Evil" force that justifies the Archivists' heavy-handed control.
     - **The Siege of the Fire City:** Rahu (the "Hero") advances through the Witch's EMP field to reach the **Pillar of Fire**, fulfilling the prophecy of the "First Martyr."
     - **Indigenous Resistance:** Scrappy human survivors attempting to defend their scavenged home (the ruins of the old base) with primitive weapons, only to be effortlessly brushed aside by the Metal Vessels' superior Synodic technology.

@@ -54,7 +54,7 @@ SUBJECT: INTERCEPTION AND SUPPRESSION OF QUATRAIN X-72 (NON-CANONICAL) CLEARANCE
 ### Shot: Lem (Suburban Adolescent)
 **Prompt:** An unremarkable adolescent boy standing in a cluttered suburban bedroom, staring out the window with a look of hyper-observance. He is surrounded by 2020s artifacts—a laptop, posters, a digital watch. He is Wood Vessel Lem before his activation.
 
-### Shot: General Tor (Public Profile)
+### Shot: General Ajax (Public Profile)
 **Prompt:** A massive, domineering man in a high-ranking military uniform, standing before a backdrop of order and strength. He looks like a symbol of unyielding loyalty and discipline. (Public persona of the Earth Vessel.)
 
 ### Copilot Note

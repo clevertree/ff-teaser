@@ -29,5 +29,5 @@ Eerie, technological growth in a natural setting, cinematic lighting, 8k.
 ### Shot: The Hermes vs Rahu
 **Prompt:** A massive capital flagship, the *Hermes*, plunging through a field of lunar debris to engage a figure of living fire (Rahu) on the moon's surface. The ship's weapons are firing, and Rahu is blasting back with intense thermal energy. Epic, world-shaking scale.
 
-### Shot: Tor's Sacrifice
-**Prompt:** Inside the bridge of the *Hermes*, General Tor stands at the command console as the ship descends toward a fatal impact. The bridge is filled with fire and debris, but he remains calm and stoic, fulfilling his duty. (Tor's final moment before the crash.)
+### Shot: Ajax's Sacrifice
+**Prompt:** Inside the bridge of the *Hermes*, General Ajax stands at the command console as the ship descends toward a fatal impact. The bridge is filled with fire and debris, but he remains calm and stoic, fulfilling his duty. (Ajax's final moment before the crash.)

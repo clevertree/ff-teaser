@@ -42,7 +42,7 @@ The sky has cleared enough to reveal the Moon fragments scattered across the hor
 
 ### Copilot Note for All Prompts Files
 > **Synchronization Protocol:** Whenever ff-story world-building is updated (characters, timeline, mechanical ecology, faction details), review all ff-teaser prompts.md files and update them to maintain narrative alignment. Add new alternate/additional shots that reflect story developments, particularly:
-> - Major character revelations and conflicts (Vessel rebellions, Tor's awakening, etc.)
+> - Major character revelations and conflicts (Vessel rebellions, Ajax's awakening, etc.)
 > - Wuxing elemental interactions (Fire vs. Water, Earth holding back Metal, etc.)
 > - Public perception shifts (Decade of Revelation, Media Flood, Thousand-Year Fallacy realization)
 > - Mechanical evolution (Fire Cities, Gorgons, Metal Vessels, Mechanical Cells)

@@ -18,4 +18,4 @@
 - **02:07 - Sound Obscured:** The **Lunar Capacitor** reaches peak discharge. The Moon shatters in another blinding explosion, filling the orbit with debris and marking the start of the **Great Fry**. This shot captures the "sense reversed" aspect as gravity and light warp around the discharge.
 - **Sequence: The Resistance:**
     - The *Hermes* engaging Rahu on the lunar surface.
-    - Tor's stoic sacrifice on the bridge of his ship.
+    - Ajax's stoic sacrifice on the bridge of his ship.
